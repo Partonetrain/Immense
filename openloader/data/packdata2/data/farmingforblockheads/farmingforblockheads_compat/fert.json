@@ -1,0 +1,29 @@
+{
+  "modId": "minecraft",
+  "group": {
+    "name": "Fertilizer",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "jsonifycraft:gemoney",
+	  "count": 2
+    },
+    "defaultCategory": "farmingforblockheads:other"
+  },
+  "customEntries": [
+    {
+      "output": "farmingforblockheads:yellow_fertilizer"
+    },
+    {
+      "output": "farmingforblockheads:red_fertilizer"
+    },
+    {
+      "output": "farmingforblockheads:green_fertilizer"
+    },
+	{
+      "output": "silentgems:glowrose_fertilizer"
+    },
+	{
+      "output": "minecraft:bone_meal"
+    }
+  ]
+}

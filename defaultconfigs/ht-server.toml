@@ -1,0 +1,12 @@
+
+["Happy Trail Control Values"]
+	#Debug Level: 0 = Off, 1 = Log, 2 = Chat+Log
+	#Range: 0 ~ 2
+	debugLevel = 0
+	#Particles On?: [true] / false
+	particlesOn = false
+
+["Trail Values 6464"]
+	#Trail Block String 6464
+	defaultTrailBlocksActual = "quark:diorite_pavement,1\n\r;botania:white_pavement,1\n\r;quark:jasper_pavement,1\n\r;inspirations:rock_path,1\n\r;inspirations:round_path,1\n\r;quark:limestone_pavement,1\n\r;quark:granite_pavement,1\n\r;quark:andesite_pavement,1\n\r;quark:marble_pavement,1\n\r;inspirations:tile_path,1\n\r;botania:white_pavement_slab,1\n\r;botania:blue_pavement_slab,1\n\r;botania:green_pavement,1\n\r;botania:blue_pavement,1\n\r;botania:green_pavement_slab,1\n\r;botania:black_pavement_slab,1\n\r;minecraft:grass_path,2\n\r;inspirations:brick_path,1\n\r;botania:black_pavement,1\n\r;quark:basalt_pavement,1\n\r;quark:slate_pavement,1\n\r;botania:red_pavement_slab,1\n\r;botania:yellow_pavement_slab,1\n\r;cfm:rock_path,1\n\r;"
+

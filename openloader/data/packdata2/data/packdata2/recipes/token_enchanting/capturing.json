@@ -1,0 +1,37 @@
+{
+  "type": "silentgems:token_enchanting",
+  "chaosGenerated": 1500,
+  "processTime": 200,
+  "ingredients": {
+    "token": {
+      "item": "silentgems:blank_token"
+    },
+    "others": [
+      {
+        "tag": "forge:gems/amber",
+        "count": 4
+      },
+      {
+        "item": "minecraft:turtle_egg",
+        "count": 2
+      },
+	  {
+        "item": "botania:dragonstone",
+        "count": 2
+      },
+	  {
+        "item": "minecraft:iron_bars",
+        "count": 16
+      }
+    ]
+  },
+  "result": {
+    "item": "silentgems:enchantment_token",
+    "enchantments": [
+      {
+        "name": "apotheosis:capturing",
+        "level": 1
+      }
+    ]
+  }
+}

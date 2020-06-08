@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "bonsaitrees2:bonsaipot"
+        },{
+            "item": "botania:hopperhock"
+        }
+		
+    ],
+    "result": {
+        "item": "bonsaitrees2:hopping_bonsaipot",
+		"count": 1
+    }
+}

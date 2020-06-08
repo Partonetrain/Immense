@@ -1,0 +1,22 @@
+{
+  "type": "dankstorage:upgrade",
+  "pattern": [
+    "bib",
+    "i1i",
+    "bib"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:storage_blocks/emerald"
+    },
+	"b": {
+      "item": "minecraft:scute"
+    },
+    "1": {
+      "item": "dankstorage:dank_3"
+    }
+  },
+  "result": {
+    "item": "dankstorage:dank_4"
+  }
+}

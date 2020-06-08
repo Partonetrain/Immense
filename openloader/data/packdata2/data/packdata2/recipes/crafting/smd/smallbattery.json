@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " c ",
+    "iri",
+    " c "
+  ],
+  "key": {
+    "r": {
+      "tag": "forge:dusts/redstone"
+    },
+	"c": {
+      "tag": "forge:ingots/copper"
+    },
+	"i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "supermultidrills:small_battery"
+  }
+}

@@ -1,0 +1,27 @@
+{
+	"name": "Swamp Expansion",
+	"icon": "swampexpansion:mud_ball",
+	"category": "minormods",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Swamp Expansion adds a little bit more content to the vanilla Swamp biome. Cattails, Willow trees, and duckweed add a little bit of flair to swamps.$(br2)The highlight of this mod is the Slabfish. These adorably derpy little guys are suprisingly customizable!"
+		},
+		{
+			"type": "entity",
+			"entity": "swampexpansion:slabfish"
+		},
+		{
+			"type": "text",
+			"text": "Slabfish that are right-clicked with a chest will be given a backpack. You can also put a variety of sweaters on them with Wool as well as dye their backpacks by right-clicking them with dye. All of these can be taken off with shears customizations. They can be bred with Tropical Fish or Tropical Fish Kelp Rolls. The offspring's appearance may be different than the parent's if they bred in a different biome!"
+		},
+		{
+			"type": "link",
+			"text": "A full list of backpack colors, sweaters, and biome varaints for the slabfish can be found on the MCAbnormals wiki:",
+			"url": "https://wiki.minecraftabnormals.com/Slabfish",
+			"link_text": "Slabfish Wiki Page"
+		
+		}
+		
+	]
+}

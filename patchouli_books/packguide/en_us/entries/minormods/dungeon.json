@@ -1,0 +1,45 @@
+{
+	"name": "Dimensional Dungeons",
+	"icon": "dimdungeons:item_portal_key",
+	"category": "minormods",
+	"pages": [{
+			"type": "text",
+			"anchor": "anchor",
+			"text": "Dimensional Dungeons allows you to enter a dimension entirely made of random dungeons. To do this, you will need to use a Blank Portal Key on an End Portal Frame. This one key will always bring you to one specfic dungeon. You will then need to build a portal with Gilded Portal Blocks, a Portal Keystone, and Stone Bricks."
+		},{
+			"type": "multiblock",
+			"text": "$(italic)Note that this preview will always face East but the portal can be in any direction",
+			"multiblock": {
+			"pattern": [
+				["   K   "], 
+				["G S S G"], 
+				["S S S S"], 
+				["S  0  S"]
+			],
+			"mapping": {
+				 "S": "minecraft:stone_bricks",
+				 "0": "minecraft:stone_bricks",
+				 "G": "dimdungeons:block_gilded_portal",
+				 "K": "dimdungeons:block_portal_keyhole[facing=east]"
+			 },
+			 "symmetrical": true
+			}
+		},
+		{
+			"type": "image",
+			"images": ["modpack:dungeon1.png","modpack:dungeon2.png","modpack:dungeon3.png"],
+			"text": "Activating a key, the shape of a portal, and an activated portal"
+		},
+		{
+			"type": "text",
+			"text": "You can't break blocks here, and must solve puzzles using only your wit. Mobs here constantly drop Gems, so you will probably want a Gem Bag.$(br2)$(italic)If for some reason mobs aren't dropping gems, force give yourself the advancement packdata2:dungeondim"
+		},
+		{
+			"type": "link",
+			"url": "https://www.curseforge.com/minecraft/mc-mods/dimensional-dungeons",
+			"link_text": "CurseForge Link",
+			"text": "In case you need a demonstrational video, there is one on the CurseForge page:"
+		
+		}
+	]
+}

@@ -1,0 +1,25 @@
+{
+	"name": "Psi",
+	"icon": "psi:psidust",
+	"category": "majormods",
+	"pages": [{
+			"type": "text",
+			"text": "Psi (pronounced SAI) is mod about spell-slinging custom-made incantations with the firearm-like Casting Assistant Devices, or CADs. Press $(bold)$(k:psimisc.keybind)$() while not holding a CAD to access its guide. The Encyclopaedia Psionica will tell you all that you need to know, but you need these to get started:"
+		},
+		{
+			"type": "crafting",
+			"recipe": "psi:cad_assembly_iron",
+			"recipe2": "packdata2:crafting/cadassembler"
+		},
+		{
+			"type": "crafting",
+			"recipe": "psi:programmer",
+			"text": "$(br2)$(#FFFAEF)$(m)These recipes might be nerfed more not sure lol"
+		},
+		{
+			"type": "text",
+			"text": "With a Spell Programmer, you are only restricted by what your CAD can cast (And what Spell Bullets you have). But don't worry, the tutorials in the Encyclopaedia are very helpful and all of the \"programming\" is visual.$(br)Psi's content comes from the sheer amount of possibilities with custom spells. You can share spells with others by exporting and importing them on the Programmer. Visit /r/PsiSpellCompendium for a plethora of community-made spells!"
+		}
+		
+	]
+}

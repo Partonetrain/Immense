@@ -1,0 +1,23 @@
+{
+  "type": "botania:petal_apothecary",
+  "output": {
+    "nbt": {
+      "SkullOwner": "bageldotjpg"
+    },
+    "item": "minecraft:player_head"
+  },
+  "ingredients": [
+    {
+      "item": "bloomful:white_wisteria_sapling"
+    },
+    {
+      "item": "bloomful:purple_wisteria_sapling"
+    },
+    {
+      "item": "bloomful:blue_wisteria_sapling"
+    },
+    {
+      "item": "bloomful:pink_wisteria_sapling"
+    }
+  ]
+}

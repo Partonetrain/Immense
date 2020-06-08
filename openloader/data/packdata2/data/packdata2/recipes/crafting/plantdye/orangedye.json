@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "simplefarming:orange"
+        }
+    ],
+    "result": {
+        "item": "minecraft:orange_dye",
+		"count": 1
+    }
+}

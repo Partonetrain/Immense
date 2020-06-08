@@ -1,0 +1,50 @@
+{
+	"name": "Silent Gear",
+	"icon": "silentgear:sword",
+	"category": "majormods",
+	"sortnum": -1,
+	"pages": [{
+			"type": "text",
+			"text": "Silent Gear adds its own method of creating tools and armor. These tools will have different traits based on what you craft them with. Use the Blueprint Package you spawned with to get started. $(br2)You can repair your tools with any material of the same tier in an Anvil or Crafting Table. $(italics)Protip: use $(c:/sgear_parts show_guie)/sgear_parts show_gui$() to show all valid parts"
+			},
+		{
+			"type": "crafting",
+			"title": "Tool Crafting",
+			"recipe": "silentgear:gear/sword",
+			"recipe2": "silentgear:gear/pickaxe"
+		},{
+			"type": "crafting",
+			"title": "Armor Crafting",
+			"recipe": "silentgear:gear/chestplate",
+			"recipe2": "silentgear:gear/boots"
+		},
+		{
+			"type": "text",
+			"text": "Every valid Gear material will have a tooltip telling you its tier and provided traits. When hovered over a material, press CTRL for stats and ALT for trait descriptions.$(br2)Once the tool is crafted, you can add Tip Upgrades (only one at a time) as well as Misc Upgrades.$(br2)$(italics)Ignore any trait or stat that mentions Magic Damage/Armor - this was a feature from earlier versions that has been removed"
+		},
+		{
+			"type": "spotlight",
+			"title": "Salvager",
+			"item": "silentgear:salvager",
+			"text": "The Salvager will break down tools into their component parts. Make sure your tool is fully repaired to guarantee you get all of the parts back."
+		},
+		{
+			"type": "link",
+			"url": "https://github.com/SilentChaos512/Silent-Gear/wiki",
+			"link_text": "SGear Wiki",
+			"text": "Combining materials of the same tier will create Synergy, and add to the end result's stats (such as durability). Synergy that is less than 100% will decrease stats. Order of materials when crafting matters when determining Synergy (and in some cases the Traits of the gear). $(br2)For more information, click below to go to the Silent Gear wiki on GitHub."
+		},
+		{
+			"type": "spotlight",
+			"item": "supermultidrills:drill_blueprint",
+			"text": "Super Multi-Drills is an addon for Silent Gear. Drills are use FE instead of durability. A good drill will dig through dirt and stone like a hot knife through butter. They are crafted slightly differently than any other piece of Gear; you need a Drill Head (crafted with the blueprint), Tool Rod, Motor, Battery, and Chassis.",
+			"title": "Super Multi-Drills"
+		},
+		{
+			"type": "crafting",
+			"recipe": "packdata2:crafting/smd/drillblueprint",
+			"recipe2": "supermultidrills:drill"
+			
+		}
+	]
+}

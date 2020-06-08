@@ -1,0 +1,62 @@
+{
+    "pools": [
+        {	
+			"name": "pool0",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:wooden_sword"
+                }
+            ]
+        },
+        {
+			"name": "pool1",
+            "rolls": 1,
+			"functions": [
+            {
+              "function": "minecraft:set_count",
+              "count": 4
+            }
+			],
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "minecraft:bread"
+                }
+            ]
+        },
+		{
+			"name": "pool2",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "patchouli:guide_book",
+					"functions":[
+					{
+						"function": "set_nbt",
+						"tag": "{'patchouli:book': 'patchouli:packguide'}"
+					}
+					
+				]
+                }
+				
+            ]
+        },
+		{
+			"name": "pool3",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "weight": 1,
+                    "name": "silentgear:blueprint_package"
+                }
+            ]
+        }
+    ]
+}

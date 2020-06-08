@@ -1,0 +1,23 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+	" w ",
+	"csc",
+    " w "
+  ],
+  "key": {
+    "s": {
+      "tag": "forge:dusts/steel"
+    },
+	"c": {
+      "item": "mekanism:alloy_infused"
+    },
+	"w": {
+      "tag": "minecraft:wool"
+    }
+  },
+  "result": {
+    "item": "mekanism:upgrade_muffling",
+	"amount": 4
+  }
+}

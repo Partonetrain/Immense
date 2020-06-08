@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " x ",
+    "x#x",
+    "x x"
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:rods/wooden"
+    },
+	"x":
+	{
+		"item": "silentgear:blueprint_paper"
+	}
+  },
+  "result": {
+    "item": "supermultidrills:drill_blueprint",
+    "count": 1
+  }
+}

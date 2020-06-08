@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "botania:pebble"
+  },
+  "result": "create:limestone",
+  "count": 1
+}

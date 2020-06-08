@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+	"bib",
+	"i i",
+    "bib"
+  ],
+  "key": {
+    "i": {
+      "item": "rats:block_of_cheese"
+    },
+	"b": {
+      "tag": "silentgems:gems"
+    }
+  },
+  "result": {
+    "item": "rats:rat_upgrade_basic"
+  }
+}

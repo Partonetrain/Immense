@@ -1,0 +1,8 @@
+{
+	"name": "Modpack Guide",
+	"model": "patchouli:book_blue",
+	"book_texture": "patchouli:textures/gui/book_blue.png",
+	"landing_text": "Your guide to Immense!$(br2)$(br2)If you happen to lose this guidebook, it can be crafted again with any seed and paper.",
+	"show_progress": false,
+	"version": 1
+}

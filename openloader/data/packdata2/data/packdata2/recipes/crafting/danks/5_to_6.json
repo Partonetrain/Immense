@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ibi",
+    "bsb",
+    "ibi"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:shulker_shell"
+    },
+	"b": {
+      "item": "mekanism:alloy_atomic"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dankstorage:5_to_6"
+  }
+}

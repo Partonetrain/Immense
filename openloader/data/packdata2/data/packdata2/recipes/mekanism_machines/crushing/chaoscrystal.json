@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "item": "silentgems:chaos_crystal"
+    }
+  },
+  "output": {
+    "item": "silentgems:chaos_dust",
+	"count": 1
+  }
+}

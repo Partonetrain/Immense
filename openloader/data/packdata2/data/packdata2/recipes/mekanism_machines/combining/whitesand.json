@@ -1,0 +1,24 @@
+{
+	"conditions": [
+	    {
+		  "type": "forge:mod_loaded",
+		  "modid": "biomesoplenty"
+		}
+	],
+  "type": "mekanism:combining",
+  "mainInput": {
+    "amount": 8,
+    "ingredient": {
+	  "tag": "forge:sand/colorless"
+    }
+  },
+  "extraInput": {
+    "ingredient": {
+      "tag": "forge:dyes/white"
+    }
+  },
+  "output": {
+    "item": "biomesoplenty:white_sand",
+	"count": 8
+  }
+}

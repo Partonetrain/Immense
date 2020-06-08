@@ -1,0 +1,37 @@
+{
+    "name": "Endergetic",
+    "icon": "endergetic:acidian_lantern",
+    "category": "minormods",
+    "pages": [
+        {
+            "type": "text",
+			"text": "The Endergetic Expansion (or just Endergetic) adds a biome that livens up the End a bit. The Poise Forest features trees like no other and some very unique mobs."
+        },
+		{
+			"type": "image",
+			"images": ["modpack:poise.png"],
+			"text": "A Poise Forest"
+		},
+		{
+			"type": "spotlight",
+			"item": "endergetic:bolloom_fruit",
+			"text": "Bolloom Fruit, found in the Poise forest, is a unique that give Levitation when consumed. They can be given to Booflos to tame them. Just make sure you feed them one Bolloom fruit at a time.$(br2)Puff Bugs will come around and pollinate Bolloom Buds, so don't worry if they aren't growing."
+		},
+		{
+			"type": "entity",
+			"entity": "endergetic:booflo",
+			"scale": 0.75
+		},
+		{
+			"type": "text",
+			"text": "Tamed Booflos can be ridden and controlled without a saddle, but be weary as they have an unorthodox method of getting around. Two Tamed Booflos can be bred with Poise Clusters, but as you'd expect from such a strange creature, they don't reproduce like other mobs. Booflo tadpoles will grow on one of your Booflo's back, and fly off!"
+		},
+		{
+			"type": "spotlight",
+			"item": "endergetic:booflo_vest",
+			"text": "Booflos drop Booflo Hide, and with a total of 16 hides, one can make a Booflo Vest. While it doesn't provide much protection, you can jump in the air $(bold)six$() times while wearing it!"
+		
+		}
+		
+    ]
+}

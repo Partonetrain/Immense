@@ -1,0 +1,13 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "item": "justanotherheadmod:pillager_head"
+  },
+  "output": {
+    "item": "justanotherheadmod:pillager_head"
+  },
+  "mana": 10000,
+  "catalyst": {
+    "name": "botania:conjuration_catalyst"
+  }
+}

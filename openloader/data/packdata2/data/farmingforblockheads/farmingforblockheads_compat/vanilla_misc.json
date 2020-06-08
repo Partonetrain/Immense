@@ -1,0 +1,25 @@
+{
+  "modId": "minecraft",
+  "group": {
+    "name": "Vanilla Misc Growables",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "jsonifycraft:gemoney"
+    },
+    "defaultCategory": "farmingforblockheads:saplings"
+  },
+  "customEntries": [
+    {
+      "output": "minecraft:kelp"
+    },
+    {
+      "output": "minecraft:sugar_cane"
+    },
+	{
+      "output": "minecraft:cactus"
+    },
+	{
+      "output": "minecraft:bamboo"
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "buzzierbees:crystallized_honey"
+        },
+		{
+            "tag": "forge:chests/wooden"
+        }
+    ],
+    "result": {
+        "item": "quark:maple_chest",
+		"count": 1
+    }
+}

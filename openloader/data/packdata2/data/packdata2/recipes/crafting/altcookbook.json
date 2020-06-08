@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+	" g ",
+	"cbc",
+    " g "
+  ],
+  "key": {
+    "c": {
+      "item": "minecraft:crafting_table"
+    },
+	"b": {
+      "item": "cookingforblockheads:recipe_book"
+    },
+	"g": {
+      "tag": "silentgems:gems"
+    }
+  },
+  "result": {
+    "item": "cookingforblockheads:crafting_book"
+  }
+}

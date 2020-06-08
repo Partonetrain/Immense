@@ -1,0 +1,25 @@
+{
+	"name": "Compasses",
+	"icon": "minecraft:compass",
+	"category": "minormods",
+	"pages": [
+			{
+				"type": "crafting",
+				"recipe": "endercompass:ender_compass",
+				"text": "Locates a Stronghold.$(br2)$(italics)The preview here isn't accurate."
+			},
+			{
+				"type": "crafting",
+				"recipe": "naturescompass:natures_compass",
+				"text": "Locates any biome you select. May lag while finding it."
+			},
+			{
+				"type": "text",
+				"text": "While not its own mod, Charm has a feature that allows you to bind vanilla compasses to Banners and Beacons by shift-right-clicking. Bound Compasses can be turned back into normal compasses."
+			},
+			{
+				"type": "crafting",
+				"recipe": "charm:crafting/compass_from_bound_compass"
+			}
+			]
+}

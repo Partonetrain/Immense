@@ -1,0 +1,27 @@
+{
+	"name": "Building Gadgets",
+	"icon": "buildinggadgets:gadget_building",
+	"category": "minormods",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "buildinggadgets:gadget_building",
+			"text": "The Building Gadget is a special tool that magically places blocks in whatever way you want. Shift-click a block in the world to select a block to build with, and press $(bold)$(k:key.buildinggadgets.settings_menu)$() to open the Gadget menu. $(br2)Gadgets can be charged in Energy Cubes."
+		},
+		{
+			"type": "spotlight",
+			"item": "buildinggadgets:gadget_exchanging",
+			"text": "The Exchanging gadget is like the Building Gadget, except it replaces existing blocks. It is used in the same way."
+		},
+		{
+			"type": "crafting",
+			"recipe": "buildinggadgets:construction_paste_powder",
+			"text": "Construction Paste is made by placing Construction Block Powder next to water, like concrete. Putting Construction Paste in a Container will allow the Gadgets to create \"fake\" blocks."
+		},{
+			"type": "crafting",
+			"recipe": "buildinggadgets:construction_paste_container",
+			"recipe2": "buildinggadgets:construction_paste_container_t2"
+		}
+		
+	]
+}

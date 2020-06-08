@@ -1,0 +1,13 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "item": "minecraft:creeper_head"
+  },
+  "output": {
+    "item": "minecraft:creeper_head"
+  },
+  "mana": 10000,
+  "catalyst": {
+    "name": "botania:conjuration_catalyst"
+  }
+}

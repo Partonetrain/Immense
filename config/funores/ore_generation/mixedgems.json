@@ -1,0 +1,30 @@
+{
+    "blocks": [
+        {
+            "block": "silentgems:multi_ore_classic",
+            "weight": 6
+        },
+        {
+            "block": "silentgems:multi_ore_dark",
+            "weight": 3
+        },
+        {
+			"block": "silentgems:multi_ore_light",
+            "weight": 1
+        }
+    ],
+    "replaces": {
+        "tag": "forge:stone"
+    },
+    "frequency": {
+        "chance": 0.25,
+        "count": 1
+    },
+    "size": 24,
+    "min_height": 16,
+    "max_height": 32,
+    "dimensions": [
+        0
+    ],
+    "biomes": []
+}

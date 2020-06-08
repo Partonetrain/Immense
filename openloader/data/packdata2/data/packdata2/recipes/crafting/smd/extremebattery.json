@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " r ",
+    "gcg",
+    " r "
+  ],
+  "key": {
+    "r": {
+      "tag": "forge:ingots/refined_obsidian"
+    },
+	"g": {
+      "tag": "forge:alloys/elite"
+    },
+	"c": {
+      "tag": "forge:circuits/elite"
+    }
+  },
+  "result": {
+    "item": "supermultidrills:extreme_battery"
+  }
+}

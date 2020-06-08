@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bib",
+    "isi",
+    "bib"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:storage_blocks/emerald"
+    },
+	"b": {
+      "item": "minecraft:scute"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dankstorage:3_to_4"
+  }
+}

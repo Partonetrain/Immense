@@ -1,0 +1,18 @@
+{
+	"name": "EXP Bottling",
+	"icon": "exp_bottling:exp_bottling_machine",
+	"category": "minormods",
+	"pages": [
+		{
+			"type": "spotlight",
+			"title": "Experience Bottling",
+			"item": "exp_bottling:exp_bottling_machine",
+			"text": "With an Experience Bottling Machine, you can fill your Glass Bottles with drinkable EXP. Store your experience before you die!"
+		},
+		{
+			"type": "crafting",
+			"recipe": "exp_bottling:exp_bottling_machine"
+		}
+		
+	]
+}

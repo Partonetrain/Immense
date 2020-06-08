@@ -1,0 +1,22 @@
+{
+  "type": "dankstorage:upgrade",
+  "pattern": [
+    "eie",
+    "i1i",
+    "eie"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:redstone_block"
+    },
+    "1": {
+      "item": "dankstorage:dank_1"
+    },
+	"e": {
+      "item": "minecraft:nether_wart_block"
+    }
+  },
+  "result": {
+    "item": "dankstorage:dank_2"
+  }
+}

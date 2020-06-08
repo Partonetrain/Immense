@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+	"ici",
+	"imi",
+    " i "
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+	"m": {
+      "tag": "forge:storage_blocks/mana"
+    },
+    "c": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "item": "psi:cad_assembler"
+  }
+}

@@ -1,0 +1,26 @@
+{
+    "blocks": [
+        {
+            "block": "funores:enderman_ore",
+            "weight": 19
+        },
+        {
+            "block": "rats:cheese_ore",
+            "weight": 1
+        }
+    ],
+    "replaces": {
+        "tag": "forge:stone"
+    },
+    "frequency": {
+        "chance": 0.1,
+        "count": 1
+    },
+    "size": 8,
+    "min_height": 12,
+    "max_height": 16,
+    "dimensions": [
+        0
+    ],
+    "biomes": []
+}

@@ -1,0 +1,17 @@
+{
+  "type": "silentgems:altar_transmutation",
+  "chaosGenerated": 60,
+  "processTime": 200,
+  "ingredient": [
+    {
+      "tag": "forge:gems/diamond"
+    }
+  ],
+  "catalyst": {
+    "tag": "forge:ingots/silver"
+  },
+  "result": {
+    "item": "silentgems:silver_ingot",
+	"count": 8
+  }
+}

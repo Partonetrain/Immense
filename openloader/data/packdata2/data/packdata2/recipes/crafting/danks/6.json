@@ -1,0 +1,22 @@
+{
+  "type": "dankstorage:upgrade",
+  "pattern": [
+    "ibi",
+    "blb",
+    "ibi"
+  ],
+  "key": {
+	"i": {
+      "item": "minecraft:shulker_shell"
+    },
+	"b": {
+      "item": "mekanism:alloy_atomic"
+    },
+    "l": {
+      "item": "dankstorage:dank_5"
+    }
+  },
+  "result": {
+    "item": "dankstorage:dank_6"
+  }
+}

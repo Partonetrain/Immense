@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "endergetic:booflo_hide"
+        }
+    ],
+    "result": {
+        "item": "minecraft:leather",
+		"count": 3
+    }
+}

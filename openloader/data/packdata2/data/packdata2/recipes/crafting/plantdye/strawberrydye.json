@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "simplefarming:strawberries"
+        }
+    ],
+    "result": {
+        "item": "minecraft:red_dye",
+		"count": 1
+    }
+}

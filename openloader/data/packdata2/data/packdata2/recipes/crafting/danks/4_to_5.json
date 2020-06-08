@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "bib",
+    "isi",
+    "bib"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:storage_blocks/diamond"
+    },
+	"b": {
+      "item": "mekanism:enriched_diamond"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dankstorage:4_to_5"
+  }
+}

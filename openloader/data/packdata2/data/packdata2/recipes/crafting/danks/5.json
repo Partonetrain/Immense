@@ -1,0 +1,22 @@
+{
+  "type": "dankstorage:upgrade",
+  "pattern": [
+    "bib",
+    "i1i",
+    "bib"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:storage_blocks/diamond"
+    },
+	"b": {
+      "item": "mekanism:enriched_diamond"
+    },
+    "1": {
+      "item": "dankstorage:dank_4"
+    }
+  },
+  "result": {
+    "item": "dankstorage:dank_5"
+  }
+}

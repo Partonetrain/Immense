@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "silentgems:chaos_crystal"
+        },{
+            "item": "minecraft:magma_cream"
+        },{
+            "item": "minecraft:magma_cream"
+        },{
+            "item": "minecraft:magma_cream"
+        },{
+            "item": "minecraft:magma_cream"
+        }
+		
+    ],
+    "result": {
+        "item": "silentgems:magma_cream_crystal",
+		"count": 1
+    }
+}

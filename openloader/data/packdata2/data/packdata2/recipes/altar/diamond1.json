@@ -1,0 +1,17 @@
+{
+  "type": "silentgems:altar_transmutation",
+  "chaosGenerated": 600,
+  "processTime": 150,
+  "ingredient": [
+    {
+      "tag": "forge:gems/emerald"
+    }
+  ],
+  "catalyst": {
+    "tag": "forge:gems/diamond"
+  },
+  "result": {
+    "item": "minecraft:diamond",
+	"count": 2
+  }
+}

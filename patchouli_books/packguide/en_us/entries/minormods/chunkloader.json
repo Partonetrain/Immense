@@ -1,0 +1,16 @@
+{
+	"name": "Chunk Loading",
+	"icon": "chunknogobyebye:loader",
+	"category": "minormods",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Chunk Loaders will force-load chunks they are placed in, so you can walk away and the chunk will remain active. Reminder that you can press F3+G to view chunk boundaries."
+		},
+		{
+			"type": "crafting",
+			"recipe": "packdata2:crafting/chunkloader"
+		}
+		
+	]
+}

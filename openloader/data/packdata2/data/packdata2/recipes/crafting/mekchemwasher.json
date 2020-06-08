@@ -1,0 +1,28 @@
+{
+  "type": "mekanism:mek_data",
+  "result": {
+    "item": "mekanism:chemical_washer"
+  },
+  "pattern": [
+    "CWC",
+    "ATA",
+    "CXC"
+  ],
+  "key": {
+    "T": {
+      "item": "mekanism:basic_gas_tank"
+    },
+    "C": {
+      "tag": "forge:circuits/advanced"
+    },
+    "A": {
+      "tag": "mekanism:alloys/infused"
+    },
+    "X": {
+      "item": "create:encased_fan"
+    },
+    "W": {
+      "item": "create:whisk"
+    }
+  }
+}

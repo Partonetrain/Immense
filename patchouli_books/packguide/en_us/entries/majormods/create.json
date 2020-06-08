@@ -1,0 +1,109 @@
+{
+	"name": "Create",
+	"icon": "create:cogwheel",
+	"category": "majormods",
+	"sortnum": -1,
+	"pages": [{
+			"type": "link",
+			"text": "Create is a large, immersive, and interactive tech mod. Everything in the mod is powered by rotation. With this mod, you can $(italics)Create$() contraptions with cogs, conveyor belts, shafts... $(br)Here's a demonstration that may leave you speechless:",
+			"url": "https://youtu.be/jDIuWv7ROi8",
+			"link_text": "This is Create"
+		},
+		{
+			"type": "text",
+			"text": "$(br2)This book will show you the most important recipes and progression - putting all of this information together to make a functional contraption is up to you! If you need some guidance, check $(l:https://www.youtube.com/watch?v=jDIuWv7ROi8&list=PLyADkcfPLU8ywCXZPaDbQ_JZJL0CGDN5Z)the entire Create YouTube playlist.$() (Enable captions.)"
+		},
+		{
+			"type": "crafting",
+			"recipe": "create:crafting_shaped/materials/andesite_alloy",
+			"text": "Andesite Alloy; you will need a lot of this. Once you get a Mixer you will be able to craft this more efficiently."
+		},		
+		{
+			"type": "crafting",
+			"recipe": "create:crafting_shaped/contraptions/shaft",
+			"text": "Shafts transfer rotation. Use cogwheels to transfer rotation vertically. Use Gearboxes to change the orientation of the rotation. Relays like these that only transfer rotation do not add Stress to a system."
+		},
+		{
+			"type": "crafting",
+			"recipe": "create:crafting_shaped/contraptions/cogwheel",
+			"recipe2": "create:crafting_shaped/contraptions/gearbox"
+		},
+		{
+			"type": "crafting",
+			"recipe": "create:crafting_shaped/contraptions/belt_connector",
+			"text": "Belts placed on Shafts will pick up items and move them according to the rotation speed and direction of the Shaft."
+		},
+		{
+			"type": "crafting",
+			"recipe": "create:crafting_shaped/contraptions/water_wheel",
+			"text": "Before you get make any contraptions, you'll need a source of motion. The easiest to set up would be a Water Wheel.$(br2)Keep in mind these have a capacity of only 8 Stress units."
+		},
+		{
+			"type": "crafting",
+			"recipe": "create:crafting_shaped/contraptions/millstone",
+			"anchor": "ms",
+			"text": "The first contraption you'll probably craft - the Millstone. After providing it with rotational power, manually drop ores into the top, then right-click to extract the dust."
+		},
+		{
+			"type": "crafting",
+			"recipe": "create:crafting_shaped/contraptions/speedometer",
+			"text": "Speedometers, as the name implies, measure speed of incoming rotation. This can be turned into a Stressometer which measures Stress."
+		},
+		{
+			"type": "crafting",
+			"recipe": "create:crafting_shaped/contraptions/mechanical_press",
+			"text": "The Mechanical Press is used to craft Sheets. To press something, drop the item under it and power it with both rotation and redstone (i.e. a button)."
+		},
+		{
+			"type": "crafting",
+			"recipe": "create:crafting_shaped/curiosities/wrench",
+			"text": "$(br)Gold Sheets are necessary for Create's wrench and goggles; two crucial tools for the aspiring engineer. Wrenches configure contraptions, and Goggles, while equipped, will give you information about contraptions in-world."
+		},
+		{
+			"type": "crafting",
+			"recipe": "create:crafting_shaped/contraptions/mechanical_mixer",
+			"text": "A Mixer with a Basin under it is required for to make Brass. Brass and Brass Plates are very useful crafting components."
+		},
+		{
+			"type": "crafting",
+			"recipe": "create:crafting_shapeless/rose_quartz",
+			"recipe2": "create:crafting_shapeless/sand_paper"
+		},
+		{
+			"type": "text",
+			"text": "These two items are essential. You'll have to sand down the rose quartz by using the Sandpaper in your offhand. Polished Rose Quartz is used in Electron Tubes, an essential crafting component.$(br2)You can get more Electron Tubes per craft with Mechanical Crafters - see next page."
+		},
+		{
+			"type": "crafting",
+			"recipe": "create:crafting_shaped/contraptions/mechanical_crafter",
+			"anchor": "mc",
+			"text": "The Mechanical Crafter is your gateway to automated crafting, and is required for recipes that exceed the 3x3 grid of a Crafting Table. Rotation is fed to these with an adjacent cogwheel. See also: Crafter Slot Cover. "
+		},
+		{
+			"type": "image",
+			"images": ["modpack:create0.png"],
+			"text": "Crafters must \"flow\" towards one output. Direction is adjusted with the Wrench."
+		},
+		{
+			"type": "spotlight",
+			"item": "create:crushing_wheel",
+			"text": "With a grid of 21 Mechanical Crafters, you can make Crushing Wheels. Two Crushing Wheels turning into eachother will crush anything that goes between them (even you!), and drop the results below them. Ores put between Crushing Wheels have a chance to return 3 Crushed ore. "		
+		},
+		{
+			"type": "image",
+			"images": ["modpack:create1.png"],
+			"text": "A very simple (but effective) Crushing Wheel setup"
+		},
+		{
+			"type": "spotlight",
+			"item": "create:encased_fan",
+			"text": "Encased Fans have a couple of uses. They can generate rotation when placed facing Fire, but can also blow wind when provided with rotation. If an Encased Fan blows through lava or water, it will smelt or wash items in front of it. Crushed ores that are washed return nuggets. The math works out to about 2 and 1/4 ingots per ore."		
+		},
+		{
+			"type": "spotlight",
+			"item": "create:chromatic_compound",
+			"text": "Chromatic Compound is an otherworldly material. On its own it is used to upgrade the Handheld Blockzapper, but can be turned into Shadow Steel by dropping it into the void, or into Refined Radiance by having it absorb nearby light-emitting blocks or dropping it in a Beacon beam."		
+		}
+		
+	]
+}

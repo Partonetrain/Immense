@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "simplefarming:cheese_block"
+        }
+    ],
+    "result": {
+        "item": "simplefarming:cheese_slice",
+		"count": 7
+    }
+}

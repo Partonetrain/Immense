@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " r ",
+    "rgr",
+    "sss"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:stone"
+    },
+    "r": {
+      "item": "minecraft:redstone_torch"
+    },
+    "g": {
+      "tag": "silentgems:gems"
+    }
+  },
+  "result": {
+    "item": "gates:xor_gate"
+  }
+}

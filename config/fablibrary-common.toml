@@ -1,0 +1,6 @@
+
+[General]
+	#The delay of the is-there-a-block-around-check around entities in ms. Increasing this number can increase TPS if needed.
+	#Range: 0 ~ 3600000
+	blockCheckAroundEntitiesDelayMs = 30000
+

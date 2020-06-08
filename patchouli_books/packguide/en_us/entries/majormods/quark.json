@@ -1,0 +1,83 @@
+{
+    "name": "Quark",
+    "icon": "quark:slime_in_a_bucket",
+    "category": "majormods",
+    "pages": [
+        {
+            "type": "text",
+			"text": "Quark is another vanilla-like mod, with LOTS of building blocks and quality-of-life features. Pretty much every feature is straightforward and/or doesn't need explanation, but here are some highlights:"
+        },
+        {
+			"type": "spotlight",
+			"title": "Color Runes",
+			"item": "quark:rainbow_rune",
+			"text": "With Color Runes found in loot chests, you can change the enchantment glint of tools. Tools must be enchanted before applying a rune. Apply in an anvil."
+		},{
+			"type": "spotlight",
+			"title": "Feeding Trough",
+			"item": "quark:feeding_trough",
+			"text": "The Feeding Trough will essentially automatically breed animals near it. It will only breed until there are so many animals in its radius, and may take additional breeding items to feed the animals, making it less efficient than manual breeding but better than nothing when you're busy doing other things."
+			},{
+			"type": "spotlight",
+			"title": "Obsidian Pressure Plate",
+			"item": "quark:obsidian_pressure_plate",
+			"text": "The Obsidian Pressure Plate will only activate when players step on it."
+			},{
+			"type": "spotlight",
+			"title": "Slime in a Bucket",
+			"item": "quark:slime_in_a_bucket",
+			"text": "If you manage to right-click a small slime with a bucket, you will capture it like a fish. This slime will hop around when you enter a slime chunk."
+			},
+			{
+			"type": "spotlight",
+			"title": "Blossom Trees",
+			"item": "quark:lavender_blossom_sapling",
+			"text": "Very rare and beautiful trees. They come in 5 variants depending on the environment."
+			},{
+			"type": "spotlight",
+			"item": "quark:monster_box",
+			"text": "You may find Monster Boxes underground. These will spawn a group of hostile mobs and then disappear. Mobs spawned this way will drop special loot!"
+			},{
+			"type": "spotlight",
+			"title": "Heart of Diamond",
+			"item": "quark:diamond_heart",
+			"text": "The incredibly illusive Stoneling can rarely be found undergound. The may drop a Heart of Diamond, which can be used for a Pickarang, or on stone for a tamed Stoneling."
+			},{
+			"type": "entity",
+			"name": "Stonelings",
+			"entity": "quark:stoneling",
+			"text": "       $(italics)Meep!",
+			"scale": 1
+			},{
+			"type": "entity",
+			"name": "Foxhounds",
+			"entity": "quark:foxhound",
+			"scale": 1,
+			"text": "Foxhounds can be tamed with coal while you have Fire Resistance. They can speed up furnaces!"
+			},
+			{
+			"type": "entity",
+			"entity": "quark:toretoise",
+			"scale": 1,
+			"text": "T$(bold)ore$()toises are rare cave mobs that grow ore on their back. I wonder what happens if you feed them Cave Roots?"
+			},
+			{
+			"type": "spotlight",
+			"title": "Magnet",
+			"item": "quark:magnet",
+			"text": "Magnets are pretty neat blocks. When powered by redstone, they can push and pull blocks containing Iron in them. Magnet-ed hoppers will drop their items, and Magnet-ed Stonecutters will destroy blocks above them."
+			},
+			{
+			"type": "spotlight",
+			"title": "Simple Pipes",
+			"item": "quark:pipe",
+			"text": "Simple Pipes are just as the name says. They will not extract items on their own, can only hold 64 items before breaking, and will simply eject items at dead ends. That said, they can be used for intuitive item transport and are much more cost-effective than hoppers."
+			},
+			{
+			"type": "link",
+			"url": "https://quark.vazkii.net/#features",
+			"text": "Quark Feature List; some features may be tweaked or disabled in this modpack",
+			"link_text": "Quark Website"
+		}
+    ]
+}

@@ -1,0 +1,8 @@
+{
+    "displayName": "Bag of Recursion",
+    "lootTable": "packdata2:bags/recursion",
+    "bagColor": "red",
+    "bagOverlayColor": "purple",
+    "bagStringColor": "white",
+    "visible": false
+}

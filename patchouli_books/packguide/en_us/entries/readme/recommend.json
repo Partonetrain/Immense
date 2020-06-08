@@ -1,0 +1,35 @@
+{
+	"name": "Highly Recommended Items",
+	"icon": "minecraft:oak_log",
+	"category": "readme",
+	"pages": [{
+			"type": "text",
+			"text": "The following items are (relatively) easy to obtain but incredibly useful."
+		},
+		{
+			"type": "crafting",
+			"recipe": "packdata2:crafting/gembag",
+			"text": "Automatically picks up and stores all gems, vanilla gems included. If you find a vein of Multi-Gem Ore, your inventory will probably fill up unless you have one of these."
+		},
+		{
+			"type": "crafting",
+			"recipe": "packdata2:crafting/waystone",
+			"text": "Placing and activating a Waystone will allow you to teleport freely to that location at any time from your inventory. This does not work cross-dimensionally - you will need Gem Teleporters for that."
+		},
+		{
+			"type": "crafting",
+			"recipe": "packdata2:crafting/market",
+			"text": "The Market will not only allow you to obtain seeds and saplings you don't have, but you can also buy fertilizers and items for herding mobs. Keep in mind that it summons an NPC, so be aware of where you place it."
+		},
+		{
+			"type": "crafting",
+			"recipe": "packdata2:crafting/money/money1",
+			"text": "GeMoney - Money made of gems - is the currency used at the Market. They are created at a 1:1 ratio with Silent's Gems.$(br2)$(italics)This item is a temporary solution to $(l:https://github.com/blay09/FarmingForBlockheads/issues/84)this issue$(/l). In the future, the market will just use gems."
+		},
+		{
+			"type": "crafting",
+			"recipe": "cobblefordays:tier_1",
+			"text": "A simple Cobblestone Generator. There are multiple tiers of this, each generating cobblestone faster and faster. Auto-outputs to the top, but can be extracted from the other sides."
+		}
+		]
+}

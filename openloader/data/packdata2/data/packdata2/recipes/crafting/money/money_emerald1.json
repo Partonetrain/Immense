@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "forge:gems/emerald"
+        },{
+            "tag": "forge:gems/emerald"
+        }
+		
+    ],
+    "result": {
+        "item": "jsonifycraft:gemoney",
+		"count": 10
+    }
+}

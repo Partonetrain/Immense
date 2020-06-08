@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CPC",
+    "POP",
+    "CPC"
+  ],
+  "key": {
+    "C": {
+      "tag": "forge:ingots/crimson_steel"
+    },
+    "O": {
+      "tag": "forge:circuits/elite"
+    },
+    "P": {
+      "item": "mekanism:steel_casing"
+    }
+  },
+  "result": {
+    "item": "jsonifycraft:osmiumcore"
+  }
+}

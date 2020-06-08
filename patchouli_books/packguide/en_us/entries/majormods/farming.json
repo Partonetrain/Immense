@@ -1,0 +1,62 @@
+{
+	"name": "Simple Farming",
+	"icon": "simplefarming:scarecrow",
+	"category": "majormods",
+	"pages": [{
+			"type": "text",
+			"text": "SimpleFarming adds many crops and foods. If you eat a large variety of foods, your max health will increase!$(br2)$(o)*This mechanic applies to all foods. Craft a Food Book to see what foods you have eaten."
+		},
+		{
+			"type": "spotlight",
+			"title": "Crops",
+			"item": "simplefarming:tomato_seeds",
+			"text": "There are a lot of crops added by SimpleFarming. Most of them grow like Wheat, but some (like corn) grow two blocks high."
+		},
+		{
+			"type": "image",
+			"images": ["modpack:grapes.png"],
+			"text": "Grapes are grown on Fences, as shown here."
+		},
+		{
+			"type": "spotlight",
+			"title": "Fruit Trees",
+			"item": "simplefarming:apple_sapling",
+			"text": "Fruit trees are rare, thin trees that have fruit-bearing leaves. The leaves will drop the appropriate fruit tree saplings, but you can also craft them."
+		},{
+			"type": "spotlight",
+			"title": "Berry Bushes",
+			"item": "simplefarming:blackberry_bush",
+			"text": "Berry bushes that rapidly grow tasty berries. These berries are a good source of dye."
+		},
+		{
+			"type": "spotlight",
+			"title": "Scarecrow",
+			"item": "simplefarming:scarecrow",
+			"text": "Scarecrows prevent crops from being trampled in a 10-block radius. They must be planted on dirt-like blocks like flowers."
+		},
+		{
+			"type": "spotlight",
+			"title": "Meals",
+			"item": "simplefarming:lasagna",
+			"text": "Lots of filling meals can be crafted with the crops you grow. These far exceed the saturation values of vanilla foods and will keep you full for a long time."
+		},
+		{
+			"type": "spotlight",
+			"title": "Brewing",
+			"item": "simplefarming:brewing_barrel",
+			"text": "A brewing barrel, for brewing alchoholic beverages. Add certain crops to the barrel, wait, and then use a Glass Bottle to extract the brew. Alchohol gives buffs, but there's a downside if you drink too much of it (as you'd expect.)"
+		},
+		{
+			"type": "link",
+			"url": "https://github.com/enemeez/simplefarming/wiki",
+			"link_text": "GitHub Wiki",
+			"text": "SimpleFarming wiki on GitHub"
+		},
+		{
+			"type": "crafting",
+			"recipe": "solcarrot:food_book",
+			"text": "Here you can see what foods you have eaten, and how many you need for bonus hearts."
+		
+		}
+	]
+}

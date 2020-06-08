@@ -1,0 +1,50 @@
+{
+	"_comment": "this doesn't actually work in-game :pensive:",
+	"type": "botania:petal_apothecary",
+	"output": {
+		"nbt": {
+			"SkullOwner": "Eutros"
+		},
+		"item": "minecraft:player_head"
+	},
+	"ingredients": [{
+			"type": "forge:nbt",
+			"item": "botania:green_petal",
+			"nbt": {
+				"RepairCost": 0,
+				"display": {
+					"Name": "{ \"text\": \"M-Mysticaw Gween Petaw\" }"
+				}
+			}
+		}, {
+			"type": "forge:nbt",
+			"item": "botania:green_petal",
+			"nbt": {
+				"RepairCost": 0,
+				"display": {
+					"Name": "{ \"text\": \"M-Mysticaw Gween Petaw\" }"
+				}
+			}
+		}, {
+			"type": "forge:nbt",
+			"item": "botania:green_petal",
+			"nbt": {
+				"RepairCost": 0,
+				"display": {
+					"Name": "{ \"text\": \"M-Mysticaw Gween Petaw\" }"
+				}
+			}
+		}, {
+			"type": "forge:nbt",
+			"item": "botania:green_petal",
+			"nbt": {
+				"RepairCost": 0,
+				"display": {
+					"Name": "{ \"text\": \"M-Mysticaw Gween Petaw\" }"
+				}
+			}
+		}
+
+
+	]
+}

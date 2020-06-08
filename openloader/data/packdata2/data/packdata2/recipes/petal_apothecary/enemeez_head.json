@@ -1,0 +1,23 @@
+{
+  "type": "botania:petal_apothecary",
+  "output": {
+    "nbt": {
+      "SkullOwner": "enemeez"
+    },
+    "item": "minecraft:player_head"
+  },
+  "ingredients": [
+    {
+      "item": "simplefarming:strawberries"
+    },
+    {
+      "item": "simplefarming:raspberries"
+    },
+    {
+      "item": "simplefarming:blueberries"
+    },
+    {
+      "item": "simplefarming:blackberries"
+    }
+  ]
+}

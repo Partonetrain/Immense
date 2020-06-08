@@ -1,0 +1,18 @@
+{
+	"type": "crafting_shapeless",
+	"ingredients": [{
+		"item": "minecraft:carrot"
+	}, {
+		"item": "minecraft:pufferfish"
+	}],
+	"result": {
+		"type": "forge:nbt",
+		"item": "minecraft:pufferfish",
+		"count": 1,
+		"nbt": {
+			"display": {
+				"Name": "{ \"text\": \"AUGH\" }"
+			}
+		}
+	}
+}

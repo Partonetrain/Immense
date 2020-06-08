@@ -1,0 +1,237 @@
+name GED DAN
+
+use head
+use right_arm
+use left_arm
+use body
+use left_leg
+use right_leg
+
+animation sequence
+  #Look right
+  section parallel
+    move left_arm_z 430 -2
+    move left_arm_x 430 -0.5
+    move head_y 250 -0.3
+    move head_x 430 -0.4
+  end
+  pause 80
+  #Look left
+  section parallel
+    move head_y 250 0.3
+    move left_arm_z 240 0
+    move left_arm_x 240 0
+    move right_arm_z 430 2
+    move right_arm_x 430 -0.5
+  end
+  pause 80
+  section sequence
+    #GET DOWN
+    section parallel
+      move head_x 8300 400 ease linear
+      move head_y 8300 4000 ease linear
+      move head_z 8300 40000 ease linear
+      move left_arm_x 8300 300 ease linear
+      move left_arm_y 8300 3000 ease linear
+      move left_arm_z 8300 30000 ease linear
+      move right_arm_x 8300 500 ease linear
+      move right_arm_y 8300 5000 ease linear
+      move right_arm_z 8300 50000 ease linear
+      move body_x 8300 650 ease linear
+      move body_y 8300 6500 ease linear
+      move body_z 8300 65000 ease linear
+      move left_leg_x 8300 2400 ease linear
+      move left_leg_y 8300 24000 ease linear
+      move left_leg_z 8300 240000 ease linear
+      move right_leg_x 8300 56400 ease linear
+      move right_leg_y 8300 564000 ease linear
+      move right_leg_z 8300 5640000 ease linear
+    end
+    #Fix the above
+    section parallel
+      move head_x 0 0
+      move head_y 0 0
+      move head_z 0 0
+      move left_arm_x 0 0
+      move left_arm_y 0 0
+      move left_arm_z 0 0
+      move right_arm_x 0 0
+      move right_arm_y 0 0
+      move right_arm_z 0 0
+      move body_x 0 0
+      move body_y 0 0
+      move body_z 0 0
+      move left_leg_x 0 0
+      move left_leg_y 0 0
+      move left_leg_z 0 0
+      move right_leg_x 0 0
+      move right_leg_y 0 0
+      move right_leg_z 0 0
+    end
+    #Sliiiiide to the left!
+    section parallel
+      move body_z 430 0.3
+      move left_arm_z 430 0.4
+      move right_arm_z 430 0.4
+    end
+    pause 80
+    #Sliiiiide to the right!
+    section parallel
+      move body_z 430 -0.3
+      move left_arm_z 430 -0.4
+      move right_arm_z 430 -0.4
+    end
+    #Take it back now yall!
+    section parallel
+      move head_x 900 400 ease linear
+      move head_y 900 4000 ease linear
+      move head_z 900 40000 ease linear
+      move left_arm_x 900 300 ease linear
+      move left_arm_y 900 3000 ease linear
+      move left_arm_z 900 30000 ease linear
+      move right_arm_x 900 500 ease linear
+      move right_arm_y 900 5000 ease linear
+      move right_arm_z 900 50000 ease linear
+      move body_x 900 650 ease linear
+      move body_y 900 6500 ease linear
+      move body_z 900 65000 ease linear
+      move left_leg_x 900 2400 ease linear
+      move left_leg_y 900 24000 ease linear
+      move left_leg_z 900 240000 ease linear
+      move right_leg_x 900 56400 ease linear
+      move right_leg_y 900 564000 ease linear
+      move right_leg_z 900 5640000 ease linear
+    end
+    #Fix the above
+    section parallel
+      move head_x 0 0
+      move head_y 0 0
+      move head_z 0 0
+      move left_arm_x 0 0
+      move left_arm_y 0 0
+      move left_arm_z 0 0
+      move right_arm_x 0 0
+      move right_arm_y 0 0
+      move right_arm_z 0 0
+      move body_x 0 0
+      move body_y 0 0
+      move body_z 0 0
+      move left_leg_x 0 0
+      move left_leg_y 0 0
+      move left_leg_z 0 0
+      move right_leg_x 0 0
+      move right_leg_y 0 0
+      move right_leg_z 0 0
+    end
+    move body_z 0 0
+    move left_arm_z 0 0
+    move right_arm_z 0 0
+    #Sliiiiide to the left!
+    section parallel
+      move body_z 430 0.3
+      move left_arm_z 430 0.4
+      move right_arm_z 430 0.4
+    end
+    pause 80
+    #Sliiiiide to the right!
+    section parallel
+      move body_z 430 -0.3
+      move left_arm_z 430 -0.4
+      move right_arm_z 430 -0.4
+    end
+    move body_z 0 0
+    move left_arm_z 0 0
+    move right_arm_z 0 0
+    #Ohohohohohohohoho!
+    move body_x 112 0
+    section sequence
+      section parallel
+        move body_x 105 -0.4
+        move head_x 105 0.05
+        move left_arm_x 105 -0.3
+        move right_arm_x 105 -0.3
+      end
+      section parallel
+        move body_x 105 0.4
+        move head_x 105 -0.05
+        move left_arm_x 105 0.3
+        move right_arm_x 105 0.3
+      end
+      repeat 8 0
+    end
+    pause 430
+    move body_x 0 0
+    move head_x 0 0
+    move left_arm_x 0 0
+    move right_arm_x 0 0
+    #Look right
+    section parallel
+      move left_arm_z 430 -2
+      move left_arm_x 430 -0.5
+      move head_y 250 -0.3
+    end
+    pause 80
+    #Look left
+    section parallel
+      move head_y 250 0.3
+      move left_arm_z 240 0
+      move left_arm_x 240 0
+      move right_arm_z 430 2
+      move right_arm_x 430 -0.5
+    end
+    #Look up
+    section parallel
+      move head_y 120 0
+      move head_x 240 -0.3
+      move left_arm_z 430 -2.5
+      move left_arm_x 430 -0.5
+      move right_arm_z 430 2.5
+      move right_arm_x 430 -0.5
+    end
+    #One more time!
+    pause 90
+    repeat 1 0
+  end
+  #Encore!
+  section parallel
+    move head_x 3800 400 ease linear
+    move head_y 3800 4000 ease linear
+    move head_z 3800 40000 ease linear
+    move left_arm_x 3800 300 ease linear
+    move left_arm_y 3800 3000 ease linear
+    move left_arm_z 3800 30000 ease linear
+    move right_arm_x 3800 500 ease linear
+    move right_arm_y 3800 5000 ease linear
+    move right_arm_z 3800 50000 ease linear
+    move body_x 3800 650 ease linear
+    move body_y 3800 6500 ease linear
+    move body_z 3800 65000 ease linear
+    move left_leg_x 3800 2400 ease linear
+    move left_leg_y 3800 24000 ease linear
+    move left_leg_z 3800 240000 ease linear
+    move right_leg_x 3800 56400 ease linear
+    move right_leg_y 3800 564000 ease linear
+    move right_leg_z 3800 5640000 ease linear
+  end
+  #Fix the above
+  section parallel
+    move head_x 0 0
+    move head_y 0 0
+    move head_z 0 0
+    move left_arm_x 0 0
+    move left_arm_y 0 0
+    move left_arm_z 0 0
+    move right_arm_x 0 0
+    move right_arm_y 0 0
+    move right_arm_z 0 0
+    move body_x 0 0
+    move body_y 0 0
+    move body_z 0 0
+    move left_leg_x 0 0
+    move left_leg_y 0 0
+    move left_leg_z 0 0
+    move right_leg_x 0 0
+    move right_leg_y 0 0
+    move right_leg_z 0 0
+  end
+end

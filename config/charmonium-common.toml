@@ -1,0 +1,18 @@
+
+[Ambience]
+	#Ambient background sounds according to the biome, time of day and depth below surface.
+	"Sounds enabled" = true
+	#Custom music tracks will play in certain situations.
+	#Charm's 'Ambient Music Improvements' module must be enabled for this to work.
+	"Music enabled" = true
+
+	[Ambience.Sounds]
+		#By default, feature sounds of this module will be disabled if the 'Environs' mod is present.
+		#Feature sounds include light-based cave sounds, crystal caves and Mineshafts.
+		"Feature sounds even if Environs is present" = true
+		#By default, biome sounds of this module will be disabled if the 'Environs' mod is present.
+		#Set this to true if you want to force them to be enabled.
+		"Biome sounds even if Environs is present" = false
+		#Volume of ambient sounds is multiplied by this amount.
+		"Volume multiplier" = 1.0
+

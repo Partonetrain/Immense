@@ -1,0 +1,31 @@
+{
+  "parent": "packdata2:root",
+  "display": {
+    "icon": {
+      "item": "dimdungeons:item_portal_key"
+    },
+    "title": {
+      "text": "Portality"
+    },
+    "description": {
+      "text": "Craft a Blank Portal Key, the first step in accessing the Dungeon Dimension"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "market": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "dimdungeons:item_portal_key",
+			"count": 1
+          }
+        ]
+      }
+    }
+  }
+}

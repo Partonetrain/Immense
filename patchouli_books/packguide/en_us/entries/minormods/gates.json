@@ -1,0 +1,19 @@
+{
+	"name": "Gates",
+	"icon": "gates:xor_gate",
+	"category": "minormods",
+	"pages": [
+		{
+			"type": "spotlight",
+			"item": "gates:xor_gate",
+			"title": "Gates",
+			"text": "Gates adds, as the name implies, redstone gates. These are single-block forms of the most common gates used in redstone circuits. The more complex gates are more expensive." 
+		},
+		{
+			"type": "spotlight",
+			"item": "gates:transmitter",
+			"text": "Gates also adds wireless redstone capabilities. Direct redstone inputs to the Transmitter and outputs to the Reciever.$(br2)If you're playing multiplayer, make sure to communicate who is using what frequencies." 
+		}
+		
+	]
+}

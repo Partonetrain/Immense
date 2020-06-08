@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+	"lll",
+	"sgs",
+    "lll"
+  ],
+  "key": {
+    "l": {
+      "item": "minecraft:leather"
+    },
+	"g": {
+      "tag": "silentgems:gems"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "torchbandolier:empty_torch_bandolier"
+  }
+}

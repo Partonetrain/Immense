@@ -1,0 +1,31 @@
+{
+	"parent": "packdata2:portalkey",
+	"display": {
+		"icon": {
+			"item": "dimdungeons:block_gilded_portal"
+		},
+		"title": {
+			"text": "Dungeoneer"
+		},
+		"description": {
+			"text": "Enter the Dungeon Dimension"
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": "false"
+	},
+	"criteria": {
+		"dimension": {
+			"trigger": "minecraft:enter_block",
+			"conditions": {
+				"block": "dimdungeons:block_gold_portal"
+			}
+		}
+	},
+	"requirements": [
+		[
+			"dimension"
+		]
+	]
+}

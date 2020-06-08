@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "  i",
+    " b ",
+    "i  "
+  ],
+  "key": {
+    "b": {
+      "tag": "forge:storage_blocks/iron"
+    },
+    "i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "supermultidrills:heavy_iron_rod"
+  }
+}

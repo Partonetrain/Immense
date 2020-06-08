@@ -1,0 +1,52 @@
+{
+	"name": "Storage Options",
+	"icon": "minecraft:chest",
+	"category": "majormods",
+	"pages": [{
+			"type": "text",
+			"text": "There are several storage options in Immense: they will be listed here order of obtainibility."
+			},
+		{
+			"type": "spotlight",
+			"title": "Variant Chests",
+			"item": "quark:spruce_chest",
+			"text": "Quark adds chest variants for many wood types. Purely cosmetic, but nice to have nonetheless. $(italics)Any wood chest can be converted into a vanilla chest in a crafting table."
+		},
+		{
+			"type": "spotlight",
+			"title": "Storage Drawers",
+			"item": "storagedrawers:oak_full_drawers_1",
+			"text": "Storage Drawers adds several options for mass storage of a single item type. For example, 1x1 drawers will store 32 stacks of a single item. Right-click to insert, and left-click to take items out. Drawers can be upgraded to store even more stacks."
+		},
+		{
+			"type": "spotlight",
+			"title": "Dank Storage",
+			"item": "dankstorage:dank_1",
+			"text": "Dank Storage is essentially a backpack mod. Danks can automatically pick up what's in them if you set them to, and can void extras as well. The higher the tier, the harder it is to craft. You can change between bag, construnction, or chest modes by pressing $(bold)$(k:key.dankstorage.construction)"
+		},
+		{
+			"type": "spotlight",
+			"title": "Refined Storage",
+			"item": "refinedstorage:creative_controller",
+			"text": "Refined Storage is the premier mass storage mod. Once you make a Controller, a Grid, Disks, and a Disk Drive, all of your storage needs will be satisfied. A Storage System $(italics)does$() require energy, but it is slightly decreased from the default. If you so desire, autocrafting and Fluid Storage are available."
+		},
+		{
+			"type": "image",
+			"border": "true",
+			"images": ["modpack:storage.png"],
+			"text": "All you really need."
+		},
+		{
+			"type": "spotlight",
+			"title": "Ender Storage",
+			"item": "enderchests:ender_chest",
+			"text": "Various End-powered storage options are available. The Personal Ender Pouch will allow you to access your Personal (Vanilla) Ender Chest from anywhere. These can be crafted into Public Ender Chests, which use a color coding system to link together. Shift-click on a Public Ender Chest's wool rings with a dye to change the color."
+		},
+		{
+			"type": "spotlight",
+			"title": "Ender Storage",
+			"item": "endertanks:ender_tank",
+			"text": "Ender Tanks are the same idea as Ender Chests, but for liquids. The pump (input/output) speed of an Ender Tank can be increased with a Piston."
+		}
+	]
+}

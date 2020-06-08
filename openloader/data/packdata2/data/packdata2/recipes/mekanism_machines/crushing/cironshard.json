@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "item": "jaopca:mekanism_clumps.crimson_iron"
+    }
+  },
+  "output": {
+    "item": "jaopca:mekanism_dirty_dusts.crimson_iron"
+  }
+}

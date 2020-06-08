@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "oco",
+    "iii",
+    "oco"
+  ],
+  "key": {
+	"c": {
+      "tag": "forge:circuits/basic"
+    },
+	"o": {
+      "tag": "forge:ingots/osmium"
+    },
+	"i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "supermultidrills:enthusiast_motor"
+  }
+}

@@ -1,0 +1,15 @@
+{
+	"name": "Disenchanter",
+	"icon": "disenchanting:disenchanter",
+	"category": "minormods",
+	"pages": [{
+				"type": "text",
+				"text": "An elusive Disenchanter that allows you to take enchantments off of items and store them on books."
+			},
+			{
+				"type": "crafting",
+				"recipe": "packdata2:crafting/disenchanter",
+				"text": "Crafting this is no small task, as it requires three blocks of different kinds of diamonds as well as Ender Air. Using it requires $(italics)lots$() of experience."
+			}
+			]
+}

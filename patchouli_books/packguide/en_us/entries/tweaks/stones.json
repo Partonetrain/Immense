@@ -1,0 +1,13 @@
+{
+	"name": "Stonecutter Recipes",
+	"icon": "minecraft:stonecutter",
+	"category": "tweaks",
+	"pages": [{
+				"type": "text",
+				"text": "Quark's variant stones as well as Create's Palettes stones will not generate in the world. However, they can easily be obtained by using Pebbles in the Stonecutter. Create's Mechanical Saw can be used to automate this."
+			},
+			{
+				"type": "crafting",
+				"recipe": "packdata2:crafting/pebble"
+			}]
+}

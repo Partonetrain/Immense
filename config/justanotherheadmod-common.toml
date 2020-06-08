@@ -1,0 +1,5 @@
+
+[general]
+	#Makes the Beheading Enchantment required for Skull Drops. Default: false
+	"Mandatory Beheading" = false
+

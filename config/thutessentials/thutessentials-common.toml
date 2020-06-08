@@ -1,0 +1,97 @@
+
+[bed]
+	bedReUseDelay = 100
+	bedActivateDelay = 50
+
+[mobs]
+	mobSpawnBlacklist = []
+	mobSpawnWhitelist = []
+	mobSpawnUsesWhitelist = false
+	mobGriefAllowUsesWhitelist = true
+	mobGriefAllowWhitelist = ["minecraft:villager"]
+	mobGriefAllowBlacklist = []
+
+[tpa]
+	tpaActivateDelay = 50
+	tpaCrossDim = true
+	tpaReUseDelay = 100
+
+[back]
+	backActivateDelay = 50
+	back_on_death = true
+	backReUseDelay = 100
+	back_on_tp = true
+	backRangeCheck = 5
+
+[staff]
+	staff = []
+
+[economy]
+	initialBalance = 1000
+	shopsEnabled = true
+	sellTags = ["Sell", "Sells", "Sale"]
+	recycleTags = ["Recycle"]
+
+[rtp]
+	rtpDistance = 5000
+	rtpActivateDelay = 50
+	rtpCentre = "0,0"
+	rtpPlayerCentred = false
+	rtpReUseDelay = 100
+	rtpSpawnCentred = true
+
+[warps]
+	warpActivateDelay = 50
+	warps = []
+	warpReUseDelay = 100
+
+[chat]
+	chatFormat = "<%s> %s"
+	useChatFormat = true
+
+[homes]
+	kitReuseDelay = -1
+	homeReUseDelay = -1
+	homeActivateDelay = 50
+	maxHomes = 2
+
+[land]
+	defaultMessages = true
+	blockUseWhitelist = []
+	landEnabled = true
+	maxChunkloads = 9
+	logTeamChat = true
+	defaultTeamName = "Default"
+	itemUseWhitelist = []
+	wildernessTeam = false
+	blockBreakWhitelist = []
+	mobUseWhitelist = []
+	noMobGriefing = true
+	prefixLength = 12
+	teamLandPerPlayer = 300
+	chunkLoading = true
+	wildernessTeamName = "Wilderness"
+	blockPlaceWhitelist = []
+	foodWhitelisted = true
+	denyExplosions = true
+
+[logging]
+	inventory_log_blacklist = []
+	log_teleports = true
+	log_interactions = true
+	log_inventory_use = true
+
+[misc]
+	invulnMobs = []
+	lang_file = "en_us.json"
+	comandDisableSpam = true
+	pvpPerms = false
+	debug = false
+	defuzz = true
+	rules = []
+	spawnDim = 0
+	maxSpeed = 10.0
+	spawnActivateDelay = 50
+	commandBlacklist = []
+	spawnReUseDelay = 100
+

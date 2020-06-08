@@ -1,0 +1,25 @@
+{
+  "type": "mekanism:mek_data",
+  "pattern": [
+    " t ",
+    " s ",
+    "ece"
+  ],
+  "key": {
+    "t": {
+      "item": "create:propeller"
+    },
+	"e": {
+      "item": "mekanism:energy_tablet"
+    },
+    "s": {
+      "item": "mekanism:steel_casing"
+    },
+    "c": {
+      "tag": "forge:circuits/advanced"
+    }
+  },
+  "result": {
+    "item": "mekanismgenerators:wind_generator"
+  }
+}

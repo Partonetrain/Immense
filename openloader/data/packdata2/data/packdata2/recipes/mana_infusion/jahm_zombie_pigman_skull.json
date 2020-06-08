@@ -1,0 +1,13 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "item": "justanotherheadmod:zombie_pigman_skull"
+  },
+  "output": {
+    "item": "justanotherheadmod:zombie_pigman_skull"
+  },
+  "mana": 10000,
+  "catalyst": {
+    "name": "botania:conjuration_catalyst"
+  }
+}

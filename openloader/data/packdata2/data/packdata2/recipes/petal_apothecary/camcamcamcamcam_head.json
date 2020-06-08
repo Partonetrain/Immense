@@ -1,0 +1,23 @@
+{
+  "type": "botania:petal_apothecary",
+  "output": {
+    "nbt": {
+      "SkullOwner": "camcamcamcamcam"
+    },
+    "item": "minecraft:player_head"
+  },
+  "ingredients": [
+    {
+      "item": "upgrade_aquatic:pickerel_weed_blue"
+    },
+    {
+      "item": "upgrade_aquatic:pickerel_weed_blue"
+    },
+    {
+      "item": "upgrade_aquatic:pickerel_weed_purple"
+    },
+    {
+      "item": "upgrade_aquatic:pickerel_weed_purple"
+    }
+  ]
+}

@@ -1,0 +1,56 @@
+{
+  "parent": "packdata2:market",
+  "display": {
+    "icon": {
+      "item": "simplefarming:grape_seeds"
+    },
+    "title": {
+      "text": "Svaldbard Seed Vault"
+    },
+    "description": {
+      "text": "Obtain all SimpleFarming seeds"
+    },
+    "frame": "challenge",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false,
+	"rewards": {
+		"experience": 700
+	}
+  },
+  "criteria": {
+    "s0": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:cumin_seeds"}]}},
+    "s1": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:quinoa_seeds"}]}},
+    "s2": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:sunflower_seeds"}]}},
+    "s3": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:barley_seeds"}]}},
+    "s4": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:broccoli_seeds"}]}},
+    "s5": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:cantaloupe_seeds"}]}},
+    "s6": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:cassava_seeds"}]}},
+    "s7": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:corn_seeds"}]}},
+    "s8": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:cotton_seeds"}]}},
+    "s9": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:cucumber_seeds"}]}},
+    "s10": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:eggplant_seeds"}]}},
+    "s11": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:honeydew_seeds"}]}},
+    "s12": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:ginger_seeds"}]}},
+    "s13": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:grape_seeds"}]}},
+    "s14": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:kenaf_seeds"}]}},
+    "s15": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:lettuce_seeds"}]}},
+    "s16": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:oat_seeds"}]}},
+    "s17": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:onion_seeds"}]}},
+    "s18": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:pea_seeds"}]}},
+    "s19": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:peanut_seeds"}]}},
+    "s20": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:pepper_seeds"}]}},
+    "s21": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:radish_seeds"}]}},
+    "s22": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:rice_seeds"}]}},
+    "s23": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:rye_seeds"}]}},
+    "s24": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:sorghum_seeds"}]}},
+    "s25": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:soybean_seeds"}]}},
+    "s26": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:spinach_seeds"}]}},
+    "s27": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:squash_seeds"}]}},
+    "s28": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:sweet_potato_seeds"}]}},
+    "s29": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:tomato_seeds"}]}},
+    "s30": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:turnip_seeds"}]}},
+    "s31": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:yam_seeds"}]}},
+    "s32": {"trigger": "minecraft:inventory_changed", "conditions":{"items":[{"item": "simplefarming:zucchini_seeds"}]}}
+  }
+}

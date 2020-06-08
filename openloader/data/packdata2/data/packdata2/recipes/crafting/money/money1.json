@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "silentgems:gems"
+        },{
+            "tag": "silentgems:gems"
+        }
+		
+    ],
+    "result": {
+        "item": "jsonifycraft:gemoney",
+		"count": 2
+    }
+}

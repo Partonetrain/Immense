@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " r ",
+    "rpr",
+    " r "
+  ],
+  "key": {
+    "p": {
+      "item": "minecraft:potato"
+    },
+    "r": {
+      "tag": "forge:dusts/redstone"
+    }
+  },
+  "result": {
+    "item": "supermultidrills:tater_battery"
+  }
+}

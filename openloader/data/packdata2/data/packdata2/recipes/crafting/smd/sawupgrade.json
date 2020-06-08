@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "isi",
+    "s s",
+    "isi"
+  ],
+  "key": {
+    "s": {
+      "item": "create:iron_sheet"
+    },
+    "i": {
+      "tag": "forge:nuggets/iron"
+    }
+  },
+  "result": {
+    "item": "supermultidrills:saw_upgrade"
+  }
+}

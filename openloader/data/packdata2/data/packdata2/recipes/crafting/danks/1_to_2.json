@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "eie",
+    "isi",
+    "eie"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:redstone_block"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    },
+	"e": {
+      "item": "minecraft:nether_wart_block"
+    }
+  },
+  "result": {
+    "item": "dankstorage:1_to_2"
+  }
+}

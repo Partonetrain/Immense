@@ -1,0 +1,25 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+	"rgr",
+	"imi",
+    "rir"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/gold"
+    },
+	"m": {
+      "item": "prettypipes:medium_retrieval_module"
+    },
+	"r": {
+      "item": "minecraft:redstone_block"
+    },
+	"g": {
+      "tag": "silentgems:gems"
+    }
+  },
+  "result": {
+    "item": "prettypipes:high_retrieval_module"
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " s ",
+    "sgs",
+    "ses"
+  ],
+  "key": {
+    "s": {
+      "item": "minecraft:stone"
+    },
+    "g": {
+      "tag": "silentgems:gem_blocks"
+    },
+    "e": {
+      "item": "minecraft:ender_pearl"
+    }
+  },
+  "result": {
+    "item": "waystones:waystone"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "type": "treasurebags:shapeless_bag",
+    "ingredients": [
+        {
+            "type": "treasurebags:bag",
+            "bag_type": "silentgems:light_gems"
+        },
+        {
+            "item": "silentgems:slime_crystal"
+        }
+    ],
+    "result": {
+        "item": "treasurebags:treasure_bag",
+        "bag_type": "silentgems:classic_gems"
+    }
+}

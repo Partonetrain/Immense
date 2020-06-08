@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "forge:glass/colorless"
+        },
+		{
+            "item": "minecraft:soul_sand"
+        }
+    ],
+    "result": {
+        "item": "darkutils:soul_glass",
+		"count": 1
+    }
+}

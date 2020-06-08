@@ -1,0 +1,17 @@
+{
+  "type": "silentgems:altar_transmutation",
+  "chaosGenerated": 20,
+  "processTime": 150,
+  "ingredient": [
+    {
+      "tag": "forge:ingots/iron"
+    }
+  ],
+  "catalyst": {
+    "tag": "forge:ingots/tin"
+  },
+  "result": {
+    "item": "mekanism:ingot_tin",
+	"count": 1
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "parent": "packdata2:crusher",
+  "display": {
+    "icon": {
+      "item": "jaopca:dusts.crimson_steel"
+    },
+    "title": {
+      "text": "Crimson Crafter"
+    },
+    "description": {
+      "text": "Craft Crimson Steel Dust"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "market": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "jaopca:dusts.crimson_steel",
+			"count": 1
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "simplefarming:ginger"
+        },{
+            "item": "simplefarming:ginger"
+        }
+		
+    ],
+    "result": {
+        "item": "minecraft:brown_dye",
+		"count": 2
+    }
+}

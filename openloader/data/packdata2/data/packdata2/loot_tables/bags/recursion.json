@@ -1,0 +1,21 @@
+{
+    "pools": [
+        {
+            "name": "pool1",
+            "rolls": 1,
+            "entries": [
+                {
+                    "type": "item",
+                    "name": "treasurebags:treasure_bag",
+                    "weight": 1,
+                    "functions": [
+                        {
+                            "function": "treasurebags:set_bag_type",
+                            "type": "packdata2:recursion"
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}

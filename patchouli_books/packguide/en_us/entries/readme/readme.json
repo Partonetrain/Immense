@@ -1,0 +1,26 @@
+{
+	"name": "Read Me First!",
+	"icon": "minecraft:compass",
+	"category": "readme",
+	"sortnum": -1,
+	"pages": [{
+				"type": "text",
+				"text": "Important information that concerns one who is starting to play Immense:"
+			},
+			{
+				"type": "text",
+				"text": "$(li)Thank you for downloading and playing Immense! If you encounter any modpack-specific issues, please report them to $(l:https://github.com/Partonetrain?tab=repositories)the GitHub$().$(li)A few items have been renamed to differentiate them. See $(l:tweaks/renames)Renamed Items$().$(li)If you're reading this, you're already past world creation, but with Terraforged, worldgen can be more realistic and aesthetic. I don't necessarily recommend it, but it's an option."
+			},{
+				"type": "text",
+				"text": "$(li)Many small recipe tweaks have been made that may change a mods' progression. Notably, Mekanism requires components from Create. You will have to engineer solutions with Create before using Mekanism's one-and-done blocks.$(li)Silent's Gems adds a Chaos system that acts as magical pollution per-dimension. Strange events such as wisp spawns may occur if the world is chaotic. Try to keep the chaos down!"
+			},
+			{
+				"type": "text",
+				"text": "$(li)If you have played with Silent's Gems before, please note that normal gem generation has been disabled. You will need to find Multi-Gem Ore or obtain gems from drops in the $(l:minormods/dungeon#anchor)Dungeon Dimension$().$(li)On death, you will spawn a Totem of Holding. Punch it a few times to get your items. Note that other players will be able to get your items in the same way. $(italics)A datapack function has been provided to teleport all totems to an OP.$()"
+			},
+			{
+				"type": "text",
+				"text": "$(li)Ore Excavation (\"veinminer\") is installed. Hold $(bold)$(k:oreexcavation.key.excavate)$() to break multiple of the same block in one swing.$(li)Press $(bold)$(k:key.prone.toggle)$() to enter suffocation prevention mode (\"going prone\" or \"crawling\") at any time.$(li)Copper Ore from Create actually oxidizes and turns green-ish over time when exposed to air. Be aware of this while you're mining."
+			}
+			]
+}

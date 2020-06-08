@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "silentgems:fluffy_puff_seeds"
+        }
+		
+    ],
+    "result": {
+        "item": "minecraft:white_dye",
+		"count": 1
+    }
+}

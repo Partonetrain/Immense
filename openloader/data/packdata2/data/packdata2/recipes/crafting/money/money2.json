@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "tag": "silentgems:gem_blocks"
+        },{
+            "tag": "silentgems:gem_blocks"
+        }
+		
+    ],
+    "result": {
+        "item": "jsonifycraft:gemoney",
+		"count": 18
+    }
+}

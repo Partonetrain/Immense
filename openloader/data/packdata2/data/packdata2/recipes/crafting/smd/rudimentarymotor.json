@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ccc",
+    "iii",
+    "ccc"
+  ],
+  "key": {
+	"c": {
+      "tag": "forge:nuggets/copper"
+    },
+	"i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "supermultidrills:rudimentary_motor"
+  }
+}

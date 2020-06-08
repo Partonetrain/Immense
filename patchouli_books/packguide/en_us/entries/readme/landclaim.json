@@ -1,0 +1,25 @@
+{
+	"name": "Chunk Claiming",
+	"icon": "minecraft:dirt",
+	"category": "readme",
+	"pages": [{
+				"type": "text",
+				"text": "ThutEssentials Claiming Commands: $(br2)Note that you won't be able to claim until you join or create a team.$(br2)$(italics)This functionality may be replaced by the mods FTB Teams and FTB Chunks in the future."
+			},
+			{
+				"type": "text",
+				"text": "$(li)$(c:/list_team_admins)/list_team_admins$()-List admins in Team.$(li)$(c:/claim)/claim$()-claims current chunk$(li)/create_team <team>-creates a team called <team>$(li)/team_invite <playername>-invites <playername> to the team, clickable through chat."
+			},
+			{
+				"type": "text",
+				"text": "$(li)$(c:/team_invites)/team_invites$()-lists your current invites, click invite to join.$(li)/join_team <team>-adds you to <team> after someone invites.$(li)/kick_team_member <player>-kicks <player> from the team, if you have admin role.$(li)$(c:/leave_team)/leave_team$()-leaves current team$(li)$(c:/land_owner)/land_owner$()-says who land you are standing in"
+			},{
+				"type": "text",
+				"text": "$(li)/setTeamAdmin <player>-adds <player> as a team admin.$(li)$(c:/my_team)/my_team$()-lists of your current team.$(li)$(c:/unclaim)/unclaim$(), $(c:/unclaim all)/unclaim all$()-unclaim chunk standing in, or unclaim all chunks owned$(li)/edit_team enter <message>-message for when players enter a claim$(li)/edit_team exit <message>-message for when players leaves a claim"
+			},
+			{
+				"type": "text",
+				"text": "$(li)/edit_team deny <message>-message for when right/left click items in claim$(br2)Note that trying to use edit_team may tell you incorrect arguments, however the command still works"
+			}
+			]
+}

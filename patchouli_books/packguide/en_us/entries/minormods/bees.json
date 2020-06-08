@@ -1,0 +1,29 @@
+{
+    "name": "Buzzier Bees",
+    "icon": "buzzierbees:bee_bottle",
+    "category": "minormods",
+    "pages": [
+        {
+            "type": "text",
+			"text": "Buzzier Bees adds a couple of small features to expand upon vanilla bees. "
+
+        },
+        {
+			"type": "spotlight",
+			"item": "buzzierbees:honey_wand",
+			"text": "The Honey Wand can be bought from the Market or crafted. It can safely extract honey from (vanilla) hives. You can eat the honey right off the stick, or craft it with a bottle to save the honey for later."
+		},
+		{
+			"type": "spotlight",
+			"title": "Scented Wax Candles",
+			"item": "buzzierbees:allium_scented_candle",
+			"text": "Scented Candles give potion effects to those nearby. The type of potion effect depends on the flower used, and is the same type of effect you would get as if you used the flower for Suspiscous Stew. $(br2)These require Popped Chorus Fruit, so they aren't exactly easy to get."
+		},
+		{
+			"type": "spotlight",
+			"title": "Cures",
+			"item": "minecraft:potion{\"Potion\": \"buzzierbees:poison_cure\"}",
+			"text": "Cures are basically anti-potions. They are brewed with Nether Warts, Honey Bottles, and whatever ingredients would make the equivalent potion."
+		}
+    ]
+}

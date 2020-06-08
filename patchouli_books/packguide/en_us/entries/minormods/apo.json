@@ -1,0 +1,17 @@
+{
+    "name": "Apotheosis",
+    "icon": "apotheosis:obsidian_arrow",
+    "category": "minormods",
+    "pages": [
+        {
+            "type": "text",
+			"text": "Apotheosis is a mod that provides several tweaks in a vanilla-like way. Firstly, Cactus and Sugar Cane will grow beyond three blocks tall. It adds several potions, a Capturing enchantment that may make mobs drop their spawn eggs, and more arrows and functionality for the Fletching Table. You may also find Apotheosis Boss Mobs underground."
+
+        },
+            		{
+			"type": "spotlight",
+			"item": "minecraft:spawner",
+			"text": "With Apotheosis, Monster Spawners can be silk touched and moved around. You can use Spawn Eggs gained from the Capturing enchantment to change the spawned mob. You can change the functionality of the spawner, like spawn delay and max spawns, by right-clicking various items on a spawner (Press U on a Monster Spawner in JEI)."
+		}
+    ]
+}

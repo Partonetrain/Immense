@@ -1,0 +1,16 @@
+{
+	"name": "Botania",
+	"icon": "botania:twig_wand",
+	"category": "majormods",
+	"sortnum": -1,
+	"pages": [{
+			"type": "text",
+			"text": "Botania is a magic-styled tech mod featuing fantastic flowers, terrific trinkets, and and some unseen elves. For more information, see its own guidebook, the Lexica Botania, crafted as such:$(br2)Additionally, you can use Botania metals for Silent Gear and they will use mana. However, armor created this way will not recieve the set bonus."
+		},
+		{
+			"type": "crafting",
+			"recipe": "botania:lexicon"
+		}
+		
+	]
+}

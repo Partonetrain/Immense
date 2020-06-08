@@ -1,0 +1,30 @@
+{
+  "parent": "packdata2:root",
+  "display": {
+    "icon": {
+      "item": "mekanism:metallurgic_infuser"
+    },
+    "title": {
+      "text": "Infuser User"
+    },
+    "description": {
+      "text": "Craft a Metallurgic Infuser"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "market": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:metallurgic_infuser",
+			"count": 1
+          }
+        ]
+      }
+    }
+  }
+}

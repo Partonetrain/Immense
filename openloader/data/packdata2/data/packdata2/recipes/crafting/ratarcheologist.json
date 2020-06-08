@@ -1,0 +1,31 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "MHM",
+    "BUB",
+    "SCS"
+  ],
+  "key": {
+    "S": {
+      "item": "minecraft:iron_shovel"
+    },
+    "U": {
+      "item": "rats:rat_upgrade_basic_ratlantean"
+    },
+    "H": {
+      "item": "rats:archeologist_hat"
+    },
+    "B": {
+      "item": "minecraft:bone_block"
+    },
+    "C": {
+      "item": "rats:compressed_rat"
+    },
+    "M": {
+      "item": "rats:marbled_cheese_raw"
+    }
+  },
+  "result": {
+    "item": "rats:rat_upgrade_archeologist"
+  }
+}

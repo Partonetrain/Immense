@@ -1,0 +1,31 @@
+{
+  "parent": "packdata2:bread",
+  "display": {
+    "icon": {
+      "item": "botania:world_seed"
+    },
+    "title": {
+      "text": "「THE WORLD」"
+    },
+    "description": {
+      "text": "Obtain a World Seed"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": true
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "botania:world_seed",
+			"count": 1
+          }
+        ]
+      }
+    }
+  }
+}

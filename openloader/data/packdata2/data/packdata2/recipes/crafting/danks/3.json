@@ -1,0 +1,22 @@
+{
+  "type": "dankstorage:upgrade",
+  "pattern": [
+    "ibi",
+    "blb",
+    "ibi"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:honey_block"
+    },
+	"b": {
+      "item": "minecraft:gold_block"
+    },
+    "l": {
+      "item": "dankstorage:dank_2"
+    }
+  },
+  "result": {
+    "item": "dankstorage:dank_3"
+  }
+}

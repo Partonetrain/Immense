@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+	"igi",
+	"imi",
+    "iii"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/gold"
+    },
+	"m": {
+      "item": "prettypipes:medium_extraction_module"
+    },
+	"g": {
+      "tag": "silentgems:gems"
+    }
+  },
+  "result": {
+    "item": "prettypipes:high_extraction_module"
+  }
+}

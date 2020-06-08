@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "item": "jaopca:mekanism_dirty_dusts.crimson_iron"
+    }
+  },
+  "output": {
+    "item": "silentgear:crimson_iron_dust",
+    "count": 1
+  }
+}

@@ -1,0 +1,8 @@
+{
+    "displayName": "Light Gems Bag",
+    "lootTable": "silentgems:bags/light_gems",
+    "rarity": "uncommon",
+    "bagColor": "lightblue",
+    "bagOverlayColor": "gold",
+    "bagStringColor": "gold"
+}

@@ -1,0 +1,32 @@
+{
+  "modId": "minecraft",
+  "group": {
+    "name": "Herding",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "jsonifycraft:gemoney",
+	  "count": 8
+    },
+    "defaultCategory": "farmingforblockheads:other"
+  },
+  "customEntries": [
+    {
+      "output": "minecraft:saddle"
+    },
+	{
+      "output": "minecraft:name_tag"
+    },
+	{
+      "output": "minecraft:lead"
+    },
+	{
+      "output": "minecraft:beehive"
+    },
+	{
+      "output": "buzzierbees:honey_wand"
+    },
+	{
+      "output": "buzzierbees:bee_bottle"
+    }
+  ]
+}

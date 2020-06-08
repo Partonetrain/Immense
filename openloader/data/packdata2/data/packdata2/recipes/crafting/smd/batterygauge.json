@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "  g",
+    " r ",
+    "g  "
+  ],
+  "key": {
+    "r": {
+      "item": "minecraft:redstone_block"
+    },
+    "g": {
+      "tag": "forge:glass"
+    }
+  },
+  "result": {
+    "item": "supermultidrills:battery_gauge"
+  }
+}

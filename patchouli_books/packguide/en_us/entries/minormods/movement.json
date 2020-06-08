@@ -1,0 +1,37 @@
+{
+	"name": "Misc. Transporation",
+	"icon": "botania:white_pavement",
+	"category": "minormods",
+	"pages": [
+			{
+				"type": "spotlight",
+				"item": "quark:marble_pavement",
+				"text": "Any Pavement-type and Path-type blocks will give you speed, even vanilla Grass Paths."
+			},
+			{
+				"type": "crafting",
+				"recipe": "elevatorid:elevator_white",
+				"text": "Elevators move you up or down if there is another elevator above or below you and you press either space or shift (respectively)."
+			},
+			{
+				"type": "crafting",
+				"recipe": "javd:portal",
+				"text": "Using an Ender Pearl on a Void Portal will activate it and allow you to travel to a Void Dimension. The only thing here is the platform that you spawn on. Each player gets their own Void Dimension."
+			},
+			{
+				"type": "spotlight",
+				"item": "astikorcarts:mob_cart",
+				"text": "AstikorCarts adds a couple of horse-drawn carts. Horses (and mules, donkeys, and pigs) can be \"coupled\" to carts with the action key, currently bound to $(bold)$(k:key.astikorcarts.desc)"
+			},
+			{
+				"type": "crafting",
+				"recipe": "darkutils:self/crafting/vector_plate",
+				"text": "Dark Utils adds several tiers of Vector Plates that will speed up entities on them in the direction of the arrow. Zoom!"
+			},
+			{
+				"type": "crafting",
+				"recipe": "dwmh:ocarina",
+				"text": "With the Ocarina, you can bind it to a Horse to be summoned from anywhere. This won't bring any carts attached to them, though."
+			}
+			]
+}

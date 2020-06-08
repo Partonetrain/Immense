@@ -1,0 +1,26 @@
+{
+	"name": "Mana Infusion Recipes",
+	"icon": "botania:mana_pool",
+	"category": "tweaks",
+	"pages": [
+		{
+			"type" : "text",
+			"text": "Some custom Mana Infusion recipes provided in Immense."
+		},
+		 {
+			"type": "patchouli:mana_infusion",
+			"text": "Turtle Egg",
+			"recipes": "packdata2:mana_infusion/turtle_egg"
+		 },
+		 {
+			"type": "patchouli:mana_infusion",
+			"text": "Rat Skull",
+			"recipes": "packdata2:mana_infusion/rat_skull"
+		 },
+		 {
+			"type": "patchouli:mana_infusion",
+			"text": "Heads/skulls besides Wither Skeleton",
+			"recipes": "packdata2:mana_infusion/zombie_skull;packdata2:mana_infusion/skeleton_skull;packdata2:mana_infusion/creeper_skull;packdata2:mana_infusion/dragon_skull"
+		 }
+	]
+}

@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "silentgear:flax_string"
+        }
+    ],
+    "result": {
+        "item": "minecraft:string",
+		"count": 1
+    }
+}

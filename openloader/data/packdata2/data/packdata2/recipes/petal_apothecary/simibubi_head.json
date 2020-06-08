@@ -1,0 +1,23 @@
+{
+  "type": "botania:petal_apothecary",
+  "output": {
+    "nbt": {
+      "SkullOwner": "simibubi"
+    },
+    "item": "minecraft:player_head"
+  },
+  "ingredients": [
+    {
+      "item": "create:crushed_zinc_ore"
+    },
+    {
+      "item": "create:crushed_zinc_ore"
+    },
+    {
+      "item": "create:crushed_zinc_ore"
+    },
+    {
+      "item": "create:crushed_zinc_ore"
+    }
+  ]
+}

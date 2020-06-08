@@ -1,0 +1,33 @@
+{
+    "type": "create:mechanical_crafting",
+        "pattern": [
+			" CCC ",
+			"AEEEA",
+			"CTLTC",
+			" O O "
+        ],
+        "key": {
+			"C": {
+                "item": "mekanism:steel_casing"
+            },
+            "A": {
+                "item": "mekanism:alloy_atomic"
+            },
+			"E": {
+                "tag": "forge:circuits/elite"
+            },
+			"L": {
+                "item": "mekanism:logistical_sorter"
+            },
+			"T": {
+                "item": "mekanism:teleportation_core"
+            },
+			"O": {
+                "tag": "forge:ingots/refined_obsidian"
+            }
+        },
+	"result": {
+		"item": "mekanism:digital_miner",
+		"count": 1
+	}
+}

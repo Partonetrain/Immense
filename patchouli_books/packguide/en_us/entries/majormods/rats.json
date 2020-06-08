@@ -1,0 +1,71 @@
+{
+	"name": "Rats",
+	"icon": "rats:cheese",
+	"category": "majormods",
+	"pages": [{
+			"type": "text",
+			"text": "Rats is a mod about, well, rats. Look for Rats in the wild, the are relatively rare. You can find wild rats easier with Garbage Piles (made with Trash Cans) and Rat Attractors. In order to tame them, you will need Swiss Cheese, which you can get by leaving Milk in a cauldron. Drop the cheese in front of them. It can take anywhere from 8 to 15 slices of Swiss Cheese for the rat to trust you!"
+		},
+		{
+			"type": "entity",
+			"entity": "rats:rat",
+			"text": "       Keep an eye out!"
+		},
+		{
+			"type": "text",
+			"text": "Rats are actually surprisingly smart and versatile creatures. Once tamed, you can right-click them to open the Rat Menu. You can give them a helmet, an upgrade, and either a tool to use or a piece of food to eat. Shift-right-click to put them on your shoulder. Keep in mind unupgraded rats are relatively weak, so make sure they don't die."
+		},
+		{
+			"type": "spotlight",
+			"item": "rats:rat_upgrade_basic",
+			"title": "Rat Upgrades",
+			"text": "A Basic Rat Upgrade can be crafted into one of $(bold)50$() rat upgrades. An alternate recipe for the Basic Upgrade using Gems has been added.$(br2)$(bold)If rats die, they will not drop their upgrade! Be careful!"
+		},
+		{
+			"type": "crafting",
+			"recipe": "rats:rat_cage",
+			"text": "Placing a male and female rat in a Rat Cage will allow them to breed. These blocks can combine for even larger cages. You can even put decorations in them!"
+		},
+		{
+			"type": "spotlight",
+			"item": "rats:plague_doctor_mask",
+			"title": "The Plague",
+			"text": "The Plague is a potion effect that prevents $(bold)all healing$() and $(bold)cannot be cured with milk$(). Should you happen to get it from a Plague Rat, your best bet is to use Bundles of Sweet-Smelling Herbs or find a Plague Doctor."
+		},
+		{
+			"type": "spotlight",
+			"item": "rats:rat_upgrade_aristocrat",
+			"title": "Aristoc-Rat Upgrade",
+			"text": "As Aristoc-Rats, rats will occasionally drop Tiny Coins, as well as get them from slain mobs. You will need $(bold)lots$() of these coins, so save up!"
+		},
+		{
+			"type": "spotlight",
+			"item": "rats:chunky_cheese_token",
+			"title": "Ratlantis",
+			"text": "With a total of only 729 Tiny Coins, you can craft a Chunky Cheese Token. Using this will spawn a portal to Ratlantis, a once prosperous kingdom of rats. You will need to go here for important Rats items and upgrades. Ratlantis is a very dangerous dimension - full of tough mobs and even bosses - so gear up before you go!"
+		},
+		{
+			"type": "crafting",
+			"recipe": "packdata2:crafting/ratarcheologist",
+			"title": "Archeologist Upgrade",
+			"text": "Archeologist rats will \"research\" items and turn them into Rantlantean equivalents. This requires a Ratglove Block, which can only be crafted from flowers found in Ratlantis."
+		},
+		{
+			"type": "spotlight",
+			"item": "rats:rattling_gun",
+			"text": "Place a rat on a Rattling Gun and set it to Hunt Monsters for the ultimate base defense!"
+		},
+		{
+			"type": "text",
+			"title": "Misc. Notes",
+			"text": "$(li)Use the Cheese Staff to fine-tune individual rats.$(li)Plastic Waste, required to craft cage decorations, is sometimes dropped from breaking Garbage Piles.$(li)Upgrades can be combined with the Jury-Rigged upgrade or Upgrade Combiner. These are both difficult to obtain.$(li)Curdling Stations are your friend.$(li)Ratlantis return portal goes to 0,0 in the Overworld."
+		},
+		{
+			"type": "link",
+			"url": "https://rats-mod.fandom.com/wiki/Rats_Mod_Wiki",
+			"text": "$(br2)More information is available at the official Rats Mod wiki.",
+			"link_text": "Rats Mod Wiki"
+		}
+		
+	]
+}

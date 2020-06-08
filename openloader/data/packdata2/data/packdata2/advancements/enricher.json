@@ -1,0 +1,30 @@
+{
+  "parent": "packdata2:steel",
+  "display": {
+    "icon": {
+      "item": "mekanism:enrichment_chamber"
+    },
+    "title": {
+      "text": "Get-Rich-Quick"
+    },
+    "description": {
+      "text": "Craft an Enrichment Chamber"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "market": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:enrichment_chamber",
+			"count": 1
+          }
+        ]
+      }
+    }
+  }
+}

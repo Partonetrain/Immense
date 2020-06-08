@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "item": "funores:enderman_ore"
+    }
+  },
+  "output": {
+    "item": "minecraft:ender_pearl",
+    "count": 2
+  }
+}

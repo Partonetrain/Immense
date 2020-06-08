@@ -1,0 +1,35 @@
+{
+  "type": "silentgems:token_enchanting",
+  "chaosGenerated": 1000,
+  "processTime": 200,
+  "ingredients": {
+    "token": {
+      "item": "minecraft:egg"
+    },
+    "others": [
+      {
+        "type": "silentgems:soul_gem",
+        "soul": "minecraft:bee",
+        "count": 4
+      },
+      {
+        "item": "silentgems:enriched_chaos_crystal",
+        "count": 4
+      },
+	  {
+		"tag": "forge:dyes/yellow"
+	  },{
+		"tag": "forge:dyes/white"
+	  },{
+		"tag": "forge:dyes/purple"
+	  },{
+		"tag": "forge:dyes/black"
+	  }
+    ]
+  },
+  "result": {
+	"type": "forge:nbt",
+    "item": "minecraft:bee_spawn_egg",
+	"nbt": "{display: {Name: '{\"text\":\"wiresegal\"}'}}"
+  }
+}

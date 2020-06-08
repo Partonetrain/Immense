@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "result": {
+    "item": "mekanism:chemical_injection_chamber"
+  },
+  "pattern": [
+    "ACCA",
+    "LGGL",
+    "LGGL",
+    "ACCA"
+  ],
+  "key": {
+    "L": {
+      "item": "create:lapis_sheet"
+    },
+	"G": {
+      "item": "mekanism:structural_glass"
+    },
+    "C": {
+      "tag": "forge:circuits/advanced"
+    },
+    "A": {
+      "tag": "mekanism:alloys/reinforced"
+    }
+  }
+}

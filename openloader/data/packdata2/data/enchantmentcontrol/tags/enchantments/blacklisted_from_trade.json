@@ -1,0 +1,9 @@
+{
+  "replace": false,
+  "values": [
+    "silentgems:supercharged",
+	"charm:homing",
+	"charm:salvage",
+	"charm:leeching_curse"
+  ]
+}

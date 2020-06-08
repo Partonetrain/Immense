@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "waystones:waystone"
+        },{
+            "item": "minecraft:chiseled_sandstone"
+        }
+		
+    ],
+    "result": {
+        "item": "waystones:sandy_waystone",
+		"count": 1
+    }
+}

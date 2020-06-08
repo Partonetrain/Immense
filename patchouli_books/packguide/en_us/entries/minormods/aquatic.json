@@ -1,0 +1,61 @@
+{
+    "name": "Upgrade Aquatic",
+    "icon": "upgrade_aquatic:pike",
+    "category": "minormods",
+    "pages": [
+        {
+            "type": "text",
+			"text": "Upgrade Aquatic expands upon a lot of the content introduced in Miencraft 1.13."
+        },
+        {
+			"type": "spotlight",
+			"item": "upgrade_aquatic:finger_coral_block",
+			"text": "Many new pretty Coral blocks are added to Coral Reefs in Warm Oceans. There's now 16 types of coral, one for each color of dye!$(br2)All types of coral will spread to Coralstone, a special type of brick. Covered coralstone will not die on land like normal corals. "
+		},
+		{
+			"type": "spotlight",
+			"item": "upgrade_aquatic:embedded_ammonite",
+			"text": "Embedded Ammonite is an alternate way of obtaining Nautilus Shells."
+		},
+		{
+			"type": "entity",
+			"entity": "upgrade_aquatic:nautilus",
+			"scale": 1,
+			"text": "Actual Nautilus mobs are a source of Nautilus Shells too!"
+		},
+		{
+			"type": "spotlight",
+			"item": "upgrade_aquatic:boiled_pickerelweed_purple",
+			"title": "Boiled Pickerelweed",
+			"text": "Boiled Pickerelweed, in addition to being tasty, will refill oxygen bubbles when eaten underwater."
+		},
+		{
+			"type": "spotlight",
+			"item": "minecraft:potion{\"Potion\": \"upgrade_aquatic:restfulness\"}",
+			"text": "Potions of Restfullness decrease your Insomnia timer (the per-player timer that determines if Phantoms should spawn) without needing to sleep. Potions of Insomnia do the opposite."
+		},
+		{
+			"type": "spotlight",
+			"item": "upgrade_aquatic:pike",
+			"text": "Pike are fearsome fish that live in the pickerelweed colonies of rivers and swamps. They can spawn with fishing loot in their mouth, but won't drop it (even when killed) unless they find prey."
+		},
+		{
+			"type": "entity",
+			"entity": "upgrade_aquatic:thrasher",
+			"scale": 0.5,
+			"text": "Thrashers are ferocious shark-like monsters that spawn deep down in cold and frozen oceans. Watch out for the jaws!"
+		},
+		{
+			"type": "spotlight",
+			"item": "upgrade_aquatic:thrasher_tooth",
+			"text": "Thrasher Teeth can be used Tooth-based blocks, auto-closing doors, and even the vanilla Trident."
+		},
+		{
+			"type": "link",
+			"url": "https://www.curseforge.com/minecraft/mc-mods/upgrade-aquatic",
+			"text": "Upgrade Aquatic CurseForge page detailing all features",
+			"link_text": "Upgrade Aquatic"
+		}
+		
+    ]
+}

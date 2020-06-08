@@ -1,0 +1,32 @@
+  
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "SHS",
+    "GUG",
+    "DED"
+  ],
+  "key": {
+    "U": {
+      "item": "rats:rat_upgrade_basic"
+    },
+    "G": {
+      "tag": "forge:ingots/gold"
+    },
+    "H": {
+      "item": "rats:top_hat"
+    },
+    "S": {
+      "item": "rats:golden_rat_skull"
+    },
+    "D": {
+      "item": "minecraft:golden_carrot"
+    },
+    "E": {
+      "tag": "silentgems:gem_blocks"
+    }
+  },
+  "result": {
+    "item": "rats:rat_upgrade_aristocrat"
+  }
+}

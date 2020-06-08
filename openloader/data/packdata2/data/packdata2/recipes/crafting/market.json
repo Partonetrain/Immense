@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "III",
+    "WGW",
+    "WWW"
+  ],
+  "key": {
+    "G": {
+      "item": "jsonifycraft:gemoney"
+    },
+    "W": {
+      "tag": "minecraft:logs"
+    },
+    "I": {
+      "item": "minecraft:iron_ingot"
+    }
+  },
+  "result": {
+    "item": "farmingforblockheads:market"
+  }
+}

@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "silentgems:chaos_crystal"
+        },{
+            "item": "silentgems:ender_slimeball"
+        },{
+            "item": "silentgems:ender_slimeball"
+        },{
+            "item": "silentgems:ender_slimeball"
+        },{
+            "item": "silentgems:ender_slimeball"
+        }
+		
+    ],
+    "result": {
+        "item": "silentgems:ender_slime_crystal",
+		"count": 1
+    }
+}

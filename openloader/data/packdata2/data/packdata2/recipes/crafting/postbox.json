@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+	"bib",
+	"ici",
+    "bib"
+  ],
+  "key": {
+    "i": {
+      "tag": "forge:ingots/iron"
+    },
+	"b": {
+      "tag": "forge:dyes/blue"
+    },
+    "c": {
+      "item": "minecraft:ender_chest"
+    }
+  },
+  "result": {
+    "item": "cfm:post_box"
+  }
+}

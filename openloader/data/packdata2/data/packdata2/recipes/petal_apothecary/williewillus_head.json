@@ -1,0 +1,32 @@
+{
+  "type": "botania:petal_apothecary",
+  "output": {
+    "nbt": {
+      "SkullOwner": "williewillus"
+    },
+    "item": "minecraft:player_head"
+  },
+  "ingredients": [
+    {
+      "item": "botania:red_petal"
+    },
+	{
+      "item": "botania:red_petal"
+    },
+	{
+      "item": "botania:red_petal"
+    },
+	{
+      "item": "botania:red_petal"
+    },
+	{
+      "item": "botania:red_petal"
+    },
+	{
+      "item": "botania:red_petal"
+    },
+    {
+      "item": "botania:red_petal"
+    }
+  ]
+}

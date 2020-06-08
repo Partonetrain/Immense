@@ -1,0 +1,30 @@
+
+[common]
+	#Speed modifier for when the sprint key is pressed while riding a living entity
+	#Range: -1.0 ~ 0.0
+	speedModifier = -0.65
+
+	[common.cargoCart]
+		#List of entities that are allowed to pull this cart.
+		pullEntities = ["minecraft:horse", "minecraft:donkey", "minecraft:mule", "minecraft:pig"]
+
+	[common.mobCart]
+		#List of entities that are allowed to pull this cart.
+		pullEntities = ["minecraft:horse", "minecraft:donkey", "minecraft:mule", "minecraft:pig"]
+
+	[common.plowCart]
+		#List of entities that are allowed to pull this cart.
+		pullEntities = ["minecraft:horse", "minecraft:donkey", "minecraft:mule", "minecraft:pig"]
+
+		#<new block> -> <old blocks> mappings to replace blocks (for example to till dirt with a hoe).
+		#If the item can be damaged, it will be damaged, else it will be consumed - unless the player is in creative mode.
+		#Item and the value list also supports tags.
+		[common.plowCart.replaceMap]
+
+			[common.plowCart.replaceMap."#forge:tools/shovels"]
+				"minecraft:grass_path" = ["minecraft:grass_block", "minecraft:dirt"]
+
+			[common.plowCart.replaceMap."#forge:tools/hoes"]
+				"minecraft:farmland" = ["minecraft:dirt", "minecraft:grass_block", "minecraft:grass_path"]
+				"minecraft:dirt" = ["minecraft:coarse_dirt"]
+

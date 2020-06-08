@@ -1,0 +1,36 @@
+{
+  "type": "create:mechanical_crafting",
+  "result": {
+    "item": "mekanism:chemical_dissolution_chamber"
+  },
+  "pattern": [
+    "C###C",
+    "#AAA#",
+    "OGGGO",
+    "LGSGL",
+    "OGGGO"
+  ],
+  "key": {
+    "G": {
+      "item": "mekanism:structural_glass"
+    },
+    "C": {
+      "tag": "forge:circuits/ultimate"
+    },
+    "A": {
+      "item": "create:chromatic_compound"
+    },
+	"L": {
+      "item": "mekanism:logistical_sorter"
+    },
+	"O": {
+      "tag": "forge:ingots/refined_obsidian"
+    },
+	"S": {
+      "tag": "forge:storage_blocks/sulfur"
+    },
+    "#": {
+      "tag": "mekanism:alloys/atomic"
+    }
+  }
+}

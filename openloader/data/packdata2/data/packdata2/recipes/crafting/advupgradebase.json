@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " g ",
+    "bub",
+    " g "
+  ],
+  "key": {
+    "u": {
+      "item": "silentgear:upgrade_base"
+    },
+    "g": {
+      "tag": "forge:ingots/gold"
+    },
+    "b": {
+      "tag": "forge:dyes/blue"
+    }
+  },
+  "result": {
+    "item": "silentgear:advanced_upgrade_base"
+  }
+}

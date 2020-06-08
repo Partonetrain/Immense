@@ -1,0 +1,26 @@
+{
+	"name": "Altar Recipes",
+	"icon": "silentgems:transmutation_altar",
+	"category": "tweaks",
+	"pages": [
+			{
+				"type": "text",
+				"text": "The Transmutation Altar has had a few recipes added to it that enable you to convert between the most common types of ingots, almost like Equivalent Exchange. However, these transmutations take a long time, and dump a small but notable amount of chaos into the world."
+			},
+			{
+				"type": "crafting",
+				"recipe": "silentgems:transmuation_altar",
+				"_comment": "Typo ^ intentional",
+				"text": "Balanced(?) Transmutation"
+			},
+			{
+				"type": "text",
+				"text": "In addition to ingots, you can also transmute between Gems with different Slime Crystal catalysts.$(br2)$(italics)This is a normal feature of SilentsGems, but has been tweaked to use the gems in the recipes instead of the ores.$()$(br2)Silent's Gems adds Spawn Egg recipes to the Altar. Additional recipes for modded Spawn Eggs have been added."
+			},
+			{
+				"type": "crafting",
+				"recipe": "packdata2:crafting/slimecrystal",
+				"recipe2": "packdata2:crafting/enderslimecrystal"
+			}
+			]
+}

@@ -1,0 +1,13 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "item": "justanotherheadmod:husk_head"
+  },
+  "output": {
+    "item": "justanotherheadmod:husk_head"
+  },
+  "mana": 10000,
+  "catalyst": {
+    "name": "botania:conjuration_catalyst"
+  }
+}

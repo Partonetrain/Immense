@@ -1,0 +1,22 @@
+{
+  "modId": "minecraft",
+  "group": {
+    "name": "Silent's Mod Seeds",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "jsonifycraft:gemoney"
+    },
+    "defaultCategory": "farmingforblockheads:seeds"
+  },
+  "customEntries": [
+    {
+      "output": "silentgear:flaxseeds"
+    },
+    {
+      "output": "silentgems:fluffy_puff_seeds"
+    },
+	{
+      "output": "silentgear:netherwood_sapling"
+    }
+  ]
+}

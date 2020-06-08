@@ -1,0 +1,10 @@
+#Allow respawning in the void dimension 
+allowRespawn = false
+#Enabled per player void dimensions
+perPlayerDim = true
+#The range of how many blocks out to build the platform
+#Range: 1 ~ 10
+platformRange = 3
+#Disable easter eggs
+disableEasterEggs = false
+

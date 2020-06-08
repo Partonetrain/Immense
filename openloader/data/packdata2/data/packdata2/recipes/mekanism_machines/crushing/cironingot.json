@@ -1,0 +1,11 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "item": "silentgear:crimson_iron_ingot"
+    }
+  },
+  "output": {
+    "item": "silentgear:crimson_iron_dust"
+  }
+}

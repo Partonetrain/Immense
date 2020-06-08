@@ -1,0 +1,75 @@
+{
+	"name": "Silent's Gems",
+	"icon": "silentgems:ruby",
+	"category": "majormods",
+	"pages": [{
+			"type": "text",
+			"text": "Silent's Gems is the companion mod to Silent Gear. It adds many gems that can be used as Gear materials, a Chaos system, a new method for Enchanting, and more."
+			},
+		{
+			"type": "spotlight",
+			"title": "Gems",
+			"item": "silentgems:multi_ore_classic",
+			"text": "There are 48 Gems, each representing a Set. Every gem can be used for Gear, as well as each gem having uses in Token Enchanter recipes. If you really need a certain gem, you can transmute gems of a different set using the Transmutation Altar."
+		},{
+			"type": "spotlight",
+			"title": "Chaos",
+			"item": "silentgems:chaos_wisp_essence",
+			"text": "Silent's Gems adds a Chaos system. Chaos is the innate entropy in the dimension and can cause terrible events such as rapid lightning strikes to happen to you, so you'll want to keep it down if possible. Chaos can be read with a Chaos Meter, cleaned with a Chaos Purifier, and contained with Chaos Orbs."
+		},
+		{
+			"type": "spotlight",
+			"title": "Token Enchanter",
+			"item": "silentgems:token_enchanter",
+			"text": "With the Token Enchanter, you can essentially craft enchantments at the cost of releasing Chaos. Apply Enchantment Tokens at the crafting table. Tokens will always apply add one level of their enchantment to the tool, meaning you don't need 3 Sharpness I Tokens to get Sharpness III."
+		},
+		{
+			"type": "crafting",
+			"recipe": "silentgems:purifier",
+			"text": "Insert Purifying Powder into the Chaos Purifier to slowly but surely reduce the Chaos in the world. It may take a second to activate.$(br2)$(italics)Immense provides a temporary texture as by default the block has none."
+		},
+		{
+			"type": "spotlight",
+			"title": "Supercharger",
+			"item": "silentgems:supercharger",
+			"text": "The Supercharger powers up materials greatly at the cost of Charging Agents and generating significant amounts of Chaos. You will need a multiblock structure for it to work. Their are multiple tiers of this structure, each using stronger Charging Agents and giving better stats." 
+		},
+		{
+			"type": "image",
+			"images": ["modpack:chargertiers.png","modpack:supercharger.png"],
+			"text": "Tier 1-3 supercharger pillars (the cap can be any Gem block), and a Tier 3 supercharger from above"
+		},
+		{
+			"type": "multiblock",
+			"multiblock": {
+				"pattern":	[
+					["G     G","       ","       ","       ","       ","       ","G     G"],
+					["I     I","       ","       ","       ","       ","       ","I     I"],
+					["C     C","       ","       ","       ","       ","       ","C     C"],
+					["E     E","       ","       ","       ","       ","       ","E     E"],
+					["E     E","       ","       ","   0   ","       ","       ","E     E"]
+				
+				],
+				"mapping": {
+					 "0": "silentgems:supercharger",
+					 "G": "#silentgems:supercharger_pillar/cap",
+					 "I": "#silentgems:supercharger_pillar/level1",
+					 "C": "#silentgems:supercharger_pillar/level2",
+					 "E": "#silentgems:supercharger_pillar/level3"
+				 }
+			}
+		},
+		{
+			"type": "crafting",
+			"title": "Gem Teleporters",
+			"recipe": "silentgems:teleporter/standard/ruby",
+			"text": "Gem Teleporters can be used to teleport cross-dimensionally. Teleporters have to be linked with a Telporter Linker. These have been configured to not generate Chaos."
+		},
+		{
+			"type": "link",
+			"url": "https://github.com/SilentChaos512/SilentGems/wiki",
+			"link_text": "SGems Wiki",
+			"text": "Silent's Gems also features Glowroses, Fluffy Puffs, Gear Souls with Gear Levelling, and more."
+		}
+	]
+}

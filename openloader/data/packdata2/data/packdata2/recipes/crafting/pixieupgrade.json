@@ -1,0 +1,29 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "silentgear:advanced_upgrade_base"
+        },{
+            "item": "botania:pixie_dust"
+        },{
+            "item": "botania:pixie_dust"
+        },{
+            "item": "botania:pixie_dust"
+        },{
+            "item": "botania:pixie_dust"
+        },{
+            "item": "botania:pixie_dust"
+        },{
+            "item": "botania:pixie_dust"
+        },{
+            "item": "botania:pixie_dust"
+        },{
+            "item": "botania:pixie_dust"
+        }
+		
+    ],
+    "result": {
+        "item": "jsonifycraft:pixieupgrade",
+		"count": 1
+    }
+}

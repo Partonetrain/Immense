@@ -1,0 +1,18 @@
+{
+  "type": "mekanism:combining",
+  "mainInput": {
+    "amount": 1,
+    "ingredient": {
+	  "item": "minecraft:stone"
+    }
+  },
+  "extraInput": {
+    "ingredient": {
+      "tag": "forge:obsidian"
+    }
+  },
+  "output": {
+    "item": "silentgems:hardened_stone",
+	"count": 1
+  }
+}

@@ -1,0 +1,14 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item":  "quark:dirty_shard"
+    }
+  ],
+  "results": [
+  {
+    "item": "quark:clear_shard",
+    "count": 1
+  }
+  ]
+}

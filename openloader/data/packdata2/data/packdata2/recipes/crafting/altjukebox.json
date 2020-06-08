@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+	"ppp",
+	"pgp",
+    "ppp"
+  ],
+  "key": {
+	"g": {
+      "tag": "silentgems:gems"
+    },
+    "p": {
+      "tag": "minecraft:planks"
+    }
+  },
+  "result": {
+    "item": "minecraft:jukebox"
+  }
+}

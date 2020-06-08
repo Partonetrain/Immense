@@ -1,0 +1,26 @@
+{
+    "name": "Cooking for Blockheads",
+    "icon": "cookingforblockheads:white_kitchen_floor",
+    "category": "minormods",
+    "pages": [
+        {
+            "type": "text",
+			"text": "Cooking for Blockheads allows you to build multi-block kitchen structures that will allow you to easily see and craft all foods. A Kitchen multiblock is by no means necessary, but it's very convenient."
+
+        },
+        {
+			"type": "crafting",
+			"recipe": "packdata2:crafting/altcookbook",
+			"recipe2": "cookingforblockheads:cooking_table"
+		},
+		{
+			"type": "crafting",
+			"recipe": "cookingforblockheads:sink",
+			"recipe2": "cookingforblockheads:oven"
+		},
+		{
+			"type": "text",
+			"text": "There are plenty of blocks to store your ingredients, like Cabinets and Fridges.$(br2)The Toaster and Tool Rack don't actually do anything, but the can still be crafted to make your kitchen look nice. "
+		}
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "CPC",
+    "BXB",
+    "CPC"
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:bucket"
+    },
+    "C": {
+      "tag": "forge:circuits/advanced"
+    },
+    "P": {
+      "item": "create:mechanical_piston"
+    },
+    "X": {
+      "item": "jsonifycraft:osmiumcore"
+    }
+  },
+  "result": {
+    "item": "mekanism:osmium_compressor"
+  }
+}

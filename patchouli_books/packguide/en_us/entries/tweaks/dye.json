@@ -1,0 +1,24 @@
+{
+	"name": "Easy Dyes",
+	"icon": "minecraft:yellow_dye",
+	"category": "tweaks",
+	"pages": [{
+				"type": "text",
+				"text": "A few crop-to-dye recipes have been added for easily renewable dyes."
+			},
+			{
+				"type": "crafting",
+				"recipe": "packdata2:crafting/plantdye/strawberrydye",
+				"recipe2": "packdata2:crafting/plantdye/blueberrydye"
+			},
+			{
+				"type": "crafting",
+				"recipe": "packdata2:crafting/plantdye/bananadye",
+				"recipe2": "packdata2:crafting/plantdye/orangedye"
+			},
+			{
+				"type": "crafting",
+				"recipe": "packdata2:crafting/plantdye/fluffydye",
+				"recipe2": "packdata2:crafting/plantdye/gingerdye"
+			}]
+}

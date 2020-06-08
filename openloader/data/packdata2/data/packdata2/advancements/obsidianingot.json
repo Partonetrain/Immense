@@ -1,0 +1,30 @@
+{
+  "parent": "packdata2:osmiumcompressor",
+  "display": {
+    "icon": {
+      "item": "mekanism:ingot_refined_obsidian"
+    },
+    "title": {
+      "text": "Deep Purple"
+    },
+    "description": {
+      "text": "Obtain Refined Obsidian, the strongest Gear material"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "market": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:ingot_refined_obsidian",
+			"count": 1
+          }
+        ]
+      }
+    }
+  }
+}

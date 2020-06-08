@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "nnn",
+    "iii",
+    "nnn"
+  ],
+  "key": {
+	"n": {
+      "tag": "forge:nuggets/iron"
+    },
+	"i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "supermultidrills:basic_motor"
+  }
+}

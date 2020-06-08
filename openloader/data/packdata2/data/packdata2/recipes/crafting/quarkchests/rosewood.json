@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:rose_bush"
+        },
+		{
+            "tag": "forge:chests/wooden"
+        }
+    ],
+    "result": {
+        "item": "quark:rosewood_chest",
+		"count": 1
+    }
+}

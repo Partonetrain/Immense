@@ -1,0 +1,22 @@
+{
+	"name": "About Crimson Steel",
+	"icon": "jaopca:dusts.crimson_steel",
+	"category": "tweaks",
+	"pages": [{
+				"type": "text",
+				"text": "Crimson Steel can only be obtained by smelting a compound of Crimson Iron Dust, Coal Dust, Magma Cream, and Wither Skull Fragments.$(br2)Crimson Steel tools are required to mine Ender Essence Ore."
+			},
+			{
+				"type": "crafting",
+				"recipe": "packdata2:crafting/crimsonsteeldust"
+			},
+			{
+				"type": "crafting",
+				"recipe": "packdata2:crafting/osmiumcompressorcore",
+				"recipe2": "packdata2:crafting/osmiumcompressor"
+			},
+			{
+				"type": "text",
+				"text": "Also, Crimson Steel is required for the Osmium Compressor. It may seem like a lot of work for a machine that only has two uses, but persuading osmium to become a different state of matter requires expensive components!"
+			}]
+}

@@ -1,0 +1,52 @@
+{
+	"name": "Charm",
+	"icon": "charm:bat_bucket",
+	"category": "minormods",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Charm is a Quark-inspired mod that adds a few neat blocks and items. Here are a few of its features."
+		},
+		{
+			"type": "spotlight",
+			"item": "charm:rotten_flesh_block",
+			"text": "These Flesh Blocks will actually slightly boost the growth of crops if they are placed under farmland."
+		},
+		{
+			"type": "spotlight",
+			"title": "Coffee",
+			"item": "minecraft:potion{\"Potion\": \"charm:coffee_potion\"}",
+			"text": "Coffee, brewed with just cocoa beans and water, will give you a quick burst of speed and strength."
+		},
+		{
+			"type": "spotlight",
+			"item": "charm:bat_bucket",
+			"text": "If you manage to capture a bat with a bucket, releasing it will give you sight of all mobs nearby. Very useful for finding caves."
+		},
+		{
+			"type": "spotlight",
+			"title": "Music Discs",
+			"item": "charm:music_disc_calm1",
+			"text": "Music Discs that play Minecraft's normal soundtrack can be found in the same way that vanilla music discs can (by a creeper being killed by a skeleton)."
+		},
+		{
+			"type": "spotlight",
+			"item": "charm:endermite_powder",
+			"text": "Endermite Powder may drop from Endermites and can help you locate End Cities when used in The End."
+		},
+		{
+			"type": "spotlight",
+			"title": "Trade Renewal",
+			"item": "minecraft:emerald_block",
+			"text": "Shift-right-clicking a villager while holding an emerald block will renew its trades."
+		},
+		{
+			"type": "link",
+			"text": "Full Charm documentation is here. Please not that some features may be tweaked or disabled in Immense.",
+			"link_text": "Charm Docs",
+			"url": "https://svenhjol.github.io/Charm/"
+		
+		}
+		
+	]
+}

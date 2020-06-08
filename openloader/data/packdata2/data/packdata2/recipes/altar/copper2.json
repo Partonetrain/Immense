@@ -1,0 +1,17 @@
+{
+  "type": "silentgems:altar_transmutation",
+  "chaosGenerated": 20,
+  "processTime": 150,
+  "ingredient": [
+    {
+      "tag": "forge:ingots/silver"
+    }
+  ],
+  "catalyst": {
+    "tag": "forge:ingots/copper"
+  },
+  "result": {
+    "item": "mekanism:ingot_copper",
+	"count": 8
+  }
+}

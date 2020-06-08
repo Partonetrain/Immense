@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "  #",
+    " x ",
+    "#  "
+  ],
+  "key": {
+    "#": {
+      "tag": "forge:dusts/prismarine"
+    },
+	"x":
+	{
+		"tag": "forge:gems/prismarine"
+	}
+  },
+  "result": {
+    "item": "upgrade_aquatic:prismarine_rod",
+    "count": 1
+  }
+}

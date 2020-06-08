@@ -1,0 +1,18 @@
+{
+  "type": "mekanism:combining",
+  "mainInput": {
+    "amount": 8,
+    "ingredient": {
+	  "tag": "forge:sand/colorless"
+    }
+  },
+  "extraInput": {
+    "ingredient": {
+      "tag": "forge:dyes/red"
+    }
+  },
+  "output": {
+    "item": "minecraft:red_sand",
+	"count": 8
+  }
+}

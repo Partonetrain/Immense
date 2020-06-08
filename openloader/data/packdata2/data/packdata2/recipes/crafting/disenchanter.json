@@ -1,0 +1,34 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+	" e ",
+	"tmt",
+    "ybd"
+  ],
+  "key": {
+    "e": {
+      "item": "botania:ender_air_bottle"
+    },
+	"m": {
+      "item": "minecraft:enchanting_table"
+    },
+	"t": {
+      "item": "silentgems:blank_token"
+    },
+	"t": {
+      "item": "silentgems:blank_token"
+    },
+	"y": {
+      "item": "silentgems:yellow_diamond_block"
+    },
+	"b": {
+      "item": "botania:mana_diamond_block"
+    },
+	"d": {
+      "item": "silentgems:black_diamond_block"
+    }
+  },
+  "result": {
+    "item": "disenchanting:disenchanter"
+  }
+}

@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "silentgear:advanced_upgrade_base"
+        },{
+            "item": "minecraft:nether_star"
+        }
+		
+    ],
+    "result": {
+        "item": "jsonifycraft:netherstarupgrade",
+		"count": 1
+    }
+}

@@ -1,0 +1,43 @@
+{
+	"parent": "packdata2:root",
+	"conditions": [{
+		"type": "quark:flag",
+		"flag": "frogs"
+	}],
+	"display": {
+		"icon": {
+			"item": "quark:golden_frog_leg"
+		},
+		"title": {
+			"text": "Baron Zeppeli"
+		},
+		"description": {
+			"text": "Punch a frog."
+		},
+		"frame": "task",
+		"show_toast": true,
+		"announce_to_chat": true,
+		"hidden": "true"
+	},
+	"criteria": {
+		"punch_frog": {
+			"trigger": "minecraft:player_hurt_entity",
+			"conditions": {
+				"entity": {
+					"type": "quark:frog"
+				},
+				"damage": {
+					"dealt": {
+						"max": 1.5,
+						"min": 0.5
+					}
+				}
+			}
+		}
+	},
+	"requirements": [
+		[
+			"punch_frog"
+		]
+	]
+}

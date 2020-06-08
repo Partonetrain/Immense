@@ -1,0 +1,6 @@
+{
+	"name": "Getting Started",
+	"description": "Welcome to Immense, $(playername)! Here are some important things to know before you get started.",
+	"icon": "minecraft:oak_log",
+	"sortnum": 1
+}

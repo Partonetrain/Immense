@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "B B",
+    "BCB",
+    " B "
+  ],
+  "key": {
+    "B": {
+      "item": "minecraft:beetroot"
+    },
+	"C": {
+      "item": "quark:beetroot_crate"
+    }
+  },
+  "result": {
+    "item": "inspirations:heartbeet"
+  }
+}

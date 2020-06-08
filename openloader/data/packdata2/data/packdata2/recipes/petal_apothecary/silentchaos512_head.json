@@ -1,0 +1,36 @@
+{
+  "type": "botania:petal_apothecary",
+  "output": {
+    "nbt": {
+      "SkullOwner": "SilentChaos512"
+    },
+    "item": "minecraft:player_head"
+  },
+  "ingredients": [
+	{
+      "tag": "silentgems:gems"
+    },
+    {
+      "tag": "silentgems:gems"
+    },
+    {
+      "tag": "silentgems:gems"
+    },
+    {
+      "tag": "silentgems:gems"
+    },
+    {
+      "tag": "silentgems:gems"
+    },
+    {
+      "tag": "silentgems:gems"
+    },
+    {
+      "tag": "silentgems:gems"
+    },
+    {
+      "tag": "silentgems:gems"
+    }
+    
+  ]
+}

@@ -1,0 +1,19 @@
+{
+	"name": "Renamed Items",
+	"icon": "minecraft:writable_book",
+	"category": "tweaks",
+	"pages": [
+			{
+				"type": "text",
+				"text": "Some blocks and items have been renamed to prevent content overlap and to distinguish between them. Here's a list for your convenience.$(br2)$(italics)Keep these in mind if you happen to need to report a bug to the mod author."
+			},
+			{
+				"type": "text",
+				"text": "$(li)Quark Candles - Tallow Candles$(li)Quark Limestone - Chalk$(li)BuzzierBees Candles - Wax Candles$(li)DarkUtils Powders - Earthly, Hellish, Ender$(li)SGems Rose Quartz - Pink Quartz$(li)Botania Redquartz- Scarlet Quartz$(li)Quark Pipe - Simple Pipe$(li)Rats Cheese - Swiss Cheese$(li)Angel Ring - Angelic Halo$(li)Create Blueprints - Schematic Blueprint"
+			},
+			{
+				"type": "text",
+				"text": "$(li)EnderChests - Public Ender Chest$(li)Vanilla Ender Chest - Personal Ender Chest$(li)Swamp Expansion Rice - Millet$(li)Inspirations Pipe - Duct"
+			}
+			]
+}

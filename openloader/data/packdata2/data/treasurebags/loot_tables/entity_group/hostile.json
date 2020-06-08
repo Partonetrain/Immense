@@ -1,0 +1,54 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+	{
+            "name": "hostile_gem_loot",
+            "rolls": {
+			"min": 1,
+			"max": 5
+			},
+            "entries": [
+                {
+                    "entryName": "classicgems",
+                    "type": "loot_table",
+                    "name": "silentgems:classic_gems",
+					"weight": 6
+                },
+				{
+                    "entryName": "darkgems",
+                    "type": "loot_table",
+                    "name": "silentgems:dark_gems",
+					"weight": 3
+                },
+				{
+                    "entryName": "lightgems",
+                    "type": "loot_table",
+                    "name": "silentgems:light_gems",
+					"weight": 1
+                }
+            ],
+            "conditions": [
+				{
+					"condition": "location_check",
+					"predicate": {
+						"dimension": "dimdungeons:dungeon_dimension"
+					}
+				},{
+					"condition": "entity_properties",
+					"entity": "killer_player",
+					"predicate": {
+						"player": {
+							"advancements": {
+								
+									"packdata2:dungeondim": true
+								
+							}
+						}
+					}
+				}
+			
+            ]
+		}
+        
+  ]
+}

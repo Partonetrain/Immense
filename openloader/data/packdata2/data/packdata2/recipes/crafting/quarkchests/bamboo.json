@@ -1,0 +1,15 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "bambootiful:dried_bamboo"
+        },
+		{
+            "tag": "forge:chests/wooden"
+        }
+    ],
+    "result": {
+        "item": "quark:bamboo_chest",
+		"count": 1
+    }
+}

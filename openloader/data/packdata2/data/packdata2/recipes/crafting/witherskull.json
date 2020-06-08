@@ -1,0 +1,21 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "wstweaks:fragment"
+        },
+		{
+            "item": "wstweaks:fragment"
+        },
+		{
+            "item": "wstweaks:fragment"
+        },
+		{
+			"item": "wstweaks:fragment"
+		}
+    ],
+    "result": {
+        "item": "minecraft:wither_skeleton_skull",
+		"count": 1
+    }
+}

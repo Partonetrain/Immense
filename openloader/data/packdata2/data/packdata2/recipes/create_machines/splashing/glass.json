@@ -1,0 +1,13 @@
+{
+  "type": "create:splashing",
+  "ingredients": [
+    {
+      "item":  "quark:dirty_glass"
+    }
+  ],
+  "results": [{
+    "item": "minecraft:glass",
+    "count": 1
+  }
+  ]
+}

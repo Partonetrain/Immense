@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " g ",
+    "rir",
+    " g "
+  ],
+  "key": {
+    "r": {
+      "tag": "forge:dusts/redstone"
+    },
+	"g": {
+      "tag": "forge:ingots/gold"
+    },
+	"i": {
+      "tag": "forge:circuits/basic"
+    }
+  },
+  "result": {
+    "item": "supermultidrills:medium_battery"
+  }
+}

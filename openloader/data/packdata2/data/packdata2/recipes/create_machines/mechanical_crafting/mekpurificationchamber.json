@@ -1,0 +1,26 @@
+{
+  "type": "create:mechanical_crafting",
+  "result": {
+    "item": "mekanism:purification_chamber"
+  },
+  "pattern": [
+	" G ",
+    "ACA",
+    "OGO",
+    "ACA"
+  ],
+  "key": {
+    "G": {
+      "tag": "forge:glass/colorless"
+    },
+    "O": {
+      "tag": "forge:ingots/osmium"
+    },
+    "C": {
+      "tag": "forge:circuits/advanced"
+    },
+    "A": {
+      "tag": "mekanism:alloys/infused"
+    }
+  }
+}

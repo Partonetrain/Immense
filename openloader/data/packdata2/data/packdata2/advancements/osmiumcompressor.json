@@ -1,0 +1,30 @@
+{
+  "parent": "packdata2:crimsonsteel",
+  "display": {
+    "icon": {
+      "item": "mekanism:osmium_compressor"
+    },
+    "title": {
+      "text": "Compressor Possessor"
+    },
+    "description": {
+      "text": "After many steps, finally craft the Osmium Compressor"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "market": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanism:osmium_compressor",
+			"count": 1
+          }
+        ]
+      }
+    }
+  }
+}

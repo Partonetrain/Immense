@@ -1,0 +1,38 @@
+{
+	"name": "Dark Utilities",
+	"icon": "darkutils:blank_plate",
+	"category": "minormods",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Dark Utilities (or DarkUtils for short) adds a bunch of plates and Mob Filters that will help you with mob farms."
+		},
+		{
+			"type": "crafting",
+			"recipe": "darkutils:self/crafting/blank_plate",
+			"text": "The base plate. Lots of different plates can be made from this, from the speedy Vector Plate to the dangerous Flame Trap."
+		},
+		{
+			"type": "crafting",
+			"recipe": "darkutils:self/crafting/filter_player",
+			"title": "Entity Filters",
+			"text": "There are many kinds of entity filters. They all have similar recipes, the only difference being the item in the middle. They can be inverted by shift-right-clicking and toggled with redstone."
+		},
+		{
+			"type": "crafting",
+			"recipe": "darkutils:self/crafting/dark_glass",
+			"text": "Dark Glass is transparent, but doesn't let light through it. Useful for viewing windows into dark spawning rooms. Not very realistic, but who cares?"
+		},
+		{
+			"type": "crafting",
+			"recipe": "darkutils:self/crafting/charm_sleep",
+			"text": "Sleep Charms enable you to go to sleep faster and slower decrease the Insomnia (Phantom-spawning) counter. It doesn't have to be in a Curio slot to work."
+		},
+		{
+			"type": "crafting",
+			"recipe": "darkutils:self/crafting/ender_hopper",
+			"text": "Ender Hoppers absorb dropped items into whatever inventory it is attached to."
+		}
+		
+	]
+}

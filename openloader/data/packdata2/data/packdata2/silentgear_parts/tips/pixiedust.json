@@ -1,0 +1,37 @@
+{
+    "type": "silentgear:tip",
+    "stats": [
+        {"name": "durability",      "value":128, "op": "ADD"},
+        {"name": "enchantability",  "value": 10, "op": "ADD"},
+        {"name": "harvest_level",   "value":  0, "op": "MAX"},
+        {"name": "harvest_speed",   "value":  0, "op": "ADD"},
+        {"name": "melee_damage",    "value":  0, "op": "ADD"},
+        {"name": "magic_damage",    "value":  0, "op": "ADD"},
+        {"name": "attack_speed",    "value":0.0, "op": "ADD"},
+        {"name": "ranged_damage",   "value":0.0, "op": "ADD"},
+        {"name": "ranged_speed",    "value":0.0, "op": "ADD"},
+        {"name": "rarity",          "value":  20}
+    ],
+    "traits": [
+        {"name": "managear:pixie", "level": 1}
+    ],
+    "crafting_items": {
+        "normal": {
+            "item": "jsonifycraft:pixieupgrade"
+        }
+    },
+    "name": {
+        "translate": "Pixie-Dusted"
+    },
+    "textures": {
+        "all": {
+            "lite_texture": "high_contrast",
+			"texture_suffix": "quartz",
+            "normal_color": "white",
+            "fallback_color": "#EF8CBD"
+        }
+    },
+    "availability": {
+        "gear_blacklist": []
+    }
+}

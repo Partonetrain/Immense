@@ -1,0 +1,30 @@
+{
+  "parent": "packdata2:enricher",
+  "display": {
+    "icon": {
+      "item": "mekanismgenerators:wind_generator"
+    },
+    "title": {
+      "text": "Cool Breeze"
+    },
+    "description": {
+      "text": "Craft a Wind Generator"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true
+  },
+  "criteria": {
+    "market": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "mekanismgenerators:wind_generator",
+			"count": 1
+          }
+        ]
+      }
+    }
+  }
+}

@@ -1,0 +1,8 @@
+{
+  "type": "minecraft:stonecutting",
+  "ingredient": {
+    "item": "minecraft:ice"
+  },
+  "result": "quark:permafrost",
+  "count": 1
+}

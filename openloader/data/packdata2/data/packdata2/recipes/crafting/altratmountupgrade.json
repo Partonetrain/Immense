@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+	"bib",
+	"isi",
+    "bib"
+  ],
+  "key": {
+    "i": {
+      "item": "rats:block_of_cheese"
+    },
+	"s": {
+      "item": "minecraft:saddle"
+    },
+	"b": {
+      "tag": "silentgems:gems"
+    }
+  },
+  "result": {
+    "item": "rats:rat_upgrade_basic_mount"
+  }
+}

@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "silentgear:crimson_iron_dust"
+        },{
+            "item": "minecraft:magma_cream"
+        },{
+            "item": "wstweaks:fragment"
+        },{
+            "tag": "forge:dusts/coal"
+        }
+		
+    ],
+    "result": {
+        "item": "jaopca:dusts.crimson_steel",
+		"count": 1
+    }
+}

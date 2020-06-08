@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "item": "simplefarming:soybean"
+    }
+  },
+  "output": {
+    "item": "simplefarming:tofu",
+    "count": 3
+  }
+}

@@ -1,0 +1,13 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "minecraft:nether_star"
+        }
+		
+    ],
+    "result": {
+        "item": "silentgems:nether_star_shard",
+		"count": 9
+    }
+}

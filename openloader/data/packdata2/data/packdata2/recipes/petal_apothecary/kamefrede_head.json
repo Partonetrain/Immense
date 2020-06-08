@@ -1,0 +1,35 @@
+{
+  "type": "botania:petal_apothecary",
+  "output": {
+    "nbt": {
+      "SkullOwner": "Kamefrede"
+    },
+    "item": "minecraft:player_head"
+  },
+  "ingredients": [
+    {
+      "item": "psi:psidust"
+    },
+    {
+      "item": "psi:psidust"
+    },
+    {
+      "item": "psi:psidust"
+    },
+    {
+      "item": "psi:psidust"
+    },
+    {
+      "item": "psi:psidust"
+    },
+    {
+      "item": "psi:psidust"
+    },
+    {
+      "item": "psi:psidust"
+    },
+    {
+      "item": "psi:psidust"
+    }
+  ]
+}

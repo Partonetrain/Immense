@@ -1,0 +1,31 @@
+{
+  "parent": "packdata2:root",
+  "display": {
+    "icon": {
+      "item": "froggychair:froggychair"
+    },
+    "title": {
+      "text": "Froggy Chair"
+    },
+    "description": {
+      "text": "Froggy Chair :)"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "diamond": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "froggychair:froggychair",
+			"count": 1
+          }
+        ]
+      }
+    }
+  }
+}

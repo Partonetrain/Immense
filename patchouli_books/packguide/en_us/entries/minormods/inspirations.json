@@ -1,0 +1,49 @@
+{
+	"name": "Inspirations",
+	"icon": "inspirations:heartbeet",
+	"category": "minormods",
+	"pages": [
+		{
+			"type": "text",
+			"text": "Inspirations is yet another \"a lot of small features\" type of mod, but what it has to offer is pretty neat! Here's some spotlights."
+		},
+		{
+			"type": "spotlight",
+			"title": "Bookshelves",
+			"item": "inspirations:bookshelf",
+			"text": "Inspirations' Bookshelves are functional and good-looking. They can store all kinds of books, enchanted or otherwise, which can easily be retrieved by right-clicking them. Shift-right-click to access all of its stored books. They come in every wood flavor, and even different book styles (rainbow, ancient, etc)"
+		},
+		{
+			"type": "spotlight",
+			"title": "Carpets",
+			"item": "minecraft:white_carpet",
+			"text": "With Inspirations, carpets can be placed on stairs. Carpets can also be crafted with trapdoors to hide them."
+		},
+		{
+			"type": "spotlight",
+			"item": "inspirations:rope",
+			"text": "Ropes, Vine Ropes, and Climbing Chains are all very handy blocks that hang under a block and can be climbed up. You can place them below each other by right-clicking the top block, almost like vanilla scaffolding."
+		},
+		{
+			"type": "spotlight",
+			"item": "inspirations:collector",
+			"text": "Collectors are kind of like reverse hoppers. When they recieve a redstone pulse, they will pull items out of the inventory they are facing. They are placed facing away from you, like Observers."
+		},
+		{
+			"type": "spotlight",
+			"item": "inspirations:pipe",
+			"text": "Ducts are just minified, single-slot hoppers (that can also flow upwards!)"
+		},
+		{
+			"type": "spotlight",
+			"item": "inspirations:lock",
+			"text": "Locks, once named in an anvil, will let you lock Chest-like containers. Locked containers can only be accessed with keys named the same thing as the lock, so don't forget the \"password\"!$(br2)$(#FFFAEF)$(m)This doesn't actually prevent others from breaking them tho"
+		},
+		{
+			"type": "spotlight",
+			"item": "inspirations:redstone_charger",
+			"text": "The Redstone Charger powers a single block for about a second. It's useful for testing your circuits. If you use it while sneaking, the pulse will last for only 1 redstone tick."
+		}
+		
+	]
+}

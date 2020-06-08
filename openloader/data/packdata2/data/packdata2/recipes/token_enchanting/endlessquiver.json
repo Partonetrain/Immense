@@ -1,0 +1,48 @@
+{
+	"type": "silentgems:token_enchanting",
+	"chaosGenerated": 1000,
+	"processTime": 50,
+	"ingredients": {
+		"token": {
+			"item": "silentgems:blank_token"
+		},
+		"others": [{
+				"item": "minecraft:spectral_arrow",
+				"count": 64
+			},
+			{
+				"item": "apotheosis:broadhead_arrow",
+				"count": 64
+			},
+			{
+				"item": "apotheosis:obsidian_arrow",
+				"count": 64
+			},
+			{
+				"item": "botania:crystal_bow",
+				"count": 1
+			},
+			{
+				"item": "botania:missile_rod",
+				"count": 1
+			},
+			{
+				"type": "forge:nbt",
+				"item": "silentgems:enchantment_token",
+				"nbt": {
+					"TokenEnchantments": [{
+						"lvl": 1,
+						"id": "minecraft:infinity"
+					}]
+				}
+			}
+		]
+	},
+	"result": {
+		"item": "silentgems:enchantment_token",
+		"enchantments": [{
+			"name": "apotheosis:true_infinity",
+			"level": 1
+		}]
+	}
+}

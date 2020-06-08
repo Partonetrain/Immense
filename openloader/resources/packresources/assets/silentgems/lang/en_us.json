@@ -1,0 +1,8 @@
+{
+	"block.silentgems.multi_ore_classic": "Multi-Gem Ore",
+    "block.silentgems.multi_ore_dark": "Dark Multi-Gem Ore",
+    "block.silentgems.multi_ore_light": "Light Multi-Gem Ore",
+	
+	"gem.silentgems.rose_quartz": "Pink Quartz",
+	"part.silentgems.main.rose_quartz": "Pink Quartz"
+}

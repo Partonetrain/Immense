@@ -1,0 +1,39 @@
+{
+  "type": "minecraft:entity",
+  "pools": [
+    {
+	  "name": "gembags",
+      "rolls": 9,
+      "entries": [
+        {
+          "type": "minecraft:item",
+		  "name": "treasurebags:treasure_bag",
+          "functions": [
+            {
+				"function": "treasurebags:set_bag_type",
+                "type": "silentgems:classic_gems"
+            }
+          ]
+        },{
+          "type": "minecraft:item",
+		  "name": "treasurebags:treasure_bag",
+          "functions": [
+            {
+				"function": "treasurebags:set_bag_type",
+                "type": "silentgems:dark_gems"
+            }
+          ]
+        },{
+          "type": "minecraft:item",
+		  "name": "treasurebags:treasure_bag",
+          "functions": [
+            {
+				"function": "treasurebags:set_bag_type",
+                "type": "silentgems:light_gems"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,66 @@
+{
+	"name": "Mekanism",
+	"icon": "mekanism:metallurgic_infuser",
+	"category": "majormods",
+	"sortnum": -1,
+	"pages": [{
+			"type": "text",
+			"text": "Mekanism is a large tech mod featuring 2 to 5 times ore processing, lots of multi-process machines, and some neat tools like the Flamethrower and Jetpack.$(br2) $(br2)In Immense, Mekanism's tech tree is intertwined (and often gated behind) $(l:majormods/create)Create."
+		},
+		{
+			"type": "crafting",
+			"recipe": "packdata2:crafting/metallurgicinfuser",
+			"text": "The first machine you will create is the Metallurgic Infuser, which will allow you to create Enriched Alloys and Steel. $(italics)This recipe requires Osmium Dust, which can only be obtained early-game with a $(l:majormods/create#ms)Create Millstone."
+		},
+		{
+			"type": "crafting",
+			"recipe": "mekanism:enrichment_chamber",
+			"text": "The next step is an Enrichment Chamber, which will extract smeltable dusts from ores. It will also create \"Enriched\" items which will give more uses in the Metallurgic Infuser."
+		},
+		{
+			"type": "spotlight",
+			"item": "mekanism:purification_chamber",
+			"text": "The Purification Chamber, when paired with a (Mekanism) Crusher and a supply of Oxygen, will enable 3x ore processing. Connecting these components to automate the ore-tripling process is up to you!$(br2)It can only be crafted with 10 $(l:majormods/create#mc)Mechanical Crafters$()."
+		},
+		{
+			"type": "text",
+			"text": "Familiarize yourself with the different transportation and storage systems to create your dream factory. Logistical Tranporters are for items, Mechanical Pipes and Fluid Tanks are for liquids, Pressurized Tubes and Gas Tanks are for gasses, and Universal Cables and Energy Cubes are for energy.$(br2)The next two pages contain recipes to generators for creating energy (FE). It is best to engineer a self-sufficient energy system."
+		},
+		{
+			"type": "crafting",
+			"recipe": "mekanismgenerators:generator/heat",
+			"recipe2": "packdata2:crafting/windgenerator"
+		},
+		{
+			"type": "crafting",
+			"recipe": "mekanismgenerators:generator/solar",
+			"recipe2": "mekanismgenerators:generator/bio"
+		},
+		{
+			"type": "spotlight",
+			"item": "mekanism:configurator",
+			"text": "The Configurator is the Wrench of Mekanism. With it, you can configure machines, Mechanical Pipes, and Logistical Transporters. Press $(bold)$(k:key.mekanism.mode)$() with a Configurator in-hand to change its mode."
+		},
+		{
+			"type": "spotlight",
+			"item": "mekanism:jetpack",
+			"text": "The Jetpack propels you upwards with stored Hydrogen (a gas obtained with an Electrolytic Seperator). Press $(bold)$(k:key.mekanism.armor_mode)$() with a Jetpack equipped to switch between Regular Mode, Hover Mode, and Disabled.$(br2)You can later upgrade this to an Armored Jetpack."
+		},
+		{
+			"type": "spotlight",
+			"item": "mekanism:free_runners",
+			"text": "Free Runners will protect you from fall damage when worn, as long as they have energy. While wearing, press $(bold)$(k:key.mekanism.feet_mode)$() to enable or disable them."
+		},
+		{
+			"type": "spotlight",
+			"item": "mekanism:chargepad",
+			"text": "Standing on a Chargepad that is connected to energy will charge tools and armor on your person, so you don't have to charge each item individually in an Energy Cube. Chargepads are the only way you can place Robits."
+		},
+		{
+			"type": "spotlight",
+			"item": "mekanism:digital_miner",
+			"text": "The Digital Miner is the ultimate end-game resource generator. It teleport ores you specify out of the ground and into its inventory. As you'd expect, it is quite expensive and requires a lot of energy."
+		}
+		
+	]
+}

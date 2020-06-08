@@ -1,0 +1,13 @@
+
+[ores]
+
+	[ores.enderman]
+		#The chance that mining enderman ore will spawn an endermite. Range: [0, 1]
+		endermiteSpawnChance = 0.25
+
+[logging]
+	#If true, all ore spawns are logged. This could be useful for validating your configs,
+	#but will dump large amounts of text to your logs, slowing down the game.
+	#This should be set to 'false' most of the time!
+	oreSpawns = false
+

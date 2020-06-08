@@ -1,0 +1,17 @@
+{
+  "type": "silentgems:altar_transmutation",
+  "chaosGenerated": 40,
+  "processTime": 175,
+  "ingredient": [
+    {
+      "tag": "forge:ingots/silver"
+    }
+  ],
+  "catalyst": {
+    "tag": "forge:ingots/osmium"
+  },
+  "result": {
+    "item": "mekanism:ingot_osmium",
+	"count": 2
+  }
+}

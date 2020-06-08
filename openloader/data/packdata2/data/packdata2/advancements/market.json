@@ -1,0 +1,31 @@
+{
+  "parent": "packdata2:root",
+  "display": {
+    "icon": {
+      "item": "farmingforblockheads:market"
+    },
+    "title": {
+      "text": "Stonks"
+    },
+    "description": {
+      "text": "Obtain a Market"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "market": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "farmingforblockheads:market",
+			"count": 1
+          }
+        ]
+      }
+    }
+  }
+}

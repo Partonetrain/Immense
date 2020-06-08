@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "item": "silentgear:crimson_iron_ore"
+    }
+  },
+  "output": {
+    "item": "silentgear:crimson_iron_dust",
+    "count": 2
+  }
+}

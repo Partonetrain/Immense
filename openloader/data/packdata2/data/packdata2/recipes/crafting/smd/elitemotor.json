@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "ece",
+    "iii",
+    "ece"
+  ],
+  "key": {
+	"c": {
+      "tag": "forge:circuits/advanced"
+    },
+	"e": {
+      "tag": "forge:alloys/elite"
+    },
+	"i": {
+      "tag": "forge:ingots/iron"
+    }
+  },
+  "result": {
+    "item": "supermultidrills:elite_motor"
+  }
+}

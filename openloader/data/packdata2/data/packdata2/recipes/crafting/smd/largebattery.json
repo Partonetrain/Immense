@@ -1,0 +1,22 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " g ",
+    "rcr",
+    " g "
+  ],
+  "key": {
+    "r": {
+      "tag": "forge:ingots/bronze"
+    },
+	"g": {
+      "tag": "forge:ingots/gold"
+    },
+	"c": {
+      "tag": "forge:circuits/advanced"
+    }
+  },
+  "result": {
+    "item": "supermultidrills:large_battery"
+  }
+}

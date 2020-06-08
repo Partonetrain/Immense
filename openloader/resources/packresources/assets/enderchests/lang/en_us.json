@@ -1,0 +1,6 @@
+{
+	"item.enderchests.ender_pouch": "Personal Ender Pouch",
+	"block.enderchests.chest.public": "Public Ender Chest",
+    "block.enderchests.chest.private": "Private Ender Chest",
+    "block.enderchests.chest.team": "Team Ender Chest"
+}

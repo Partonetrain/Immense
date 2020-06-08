@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:crushing",
+  "input": {
+    "ingredient": {
+      "item": "minecraft:blaze_powder"
+    }
+  },
+  "output": {
+    "item": "mekanism:dust_sulfur",
+	"count": 2
+  }
+}

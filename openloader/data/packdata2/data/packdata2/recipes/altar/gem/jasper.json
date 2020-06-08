@@ -1,0 +1,19 @@
+{
+  "type": "silentgems:altar_transmutation",
+  "chaosGenerated": 150,
+  "processTime": 60,
+  "ingredient": [
+    {
+      "tag": "forge:gems/amber"
+    },
+    {
+      "tag": "forge:gems/cats_eye"
+    }
+  ],
+  "catalyst": {
+    "item": "silentgems:magma_cream_crystal"
+  },
+  "result": {
+    "item": "silentgems:jasper"
+  }
+}

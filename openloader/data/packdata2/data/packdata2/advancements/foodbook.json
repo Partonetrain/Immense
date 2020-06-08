@@ -1,0 +1,31 @@
+{
+  "parent": "packdata2:market",
+  "display": {
+    "icon": {
+      "item": "solcarrot:food_book"
+    },
+    "title": {
+      "text": "Foodie"
+    },
+    "description": {
+      "text": "Craft a Food Book to see what you've eaten"
+    },
+    "frame": "task",
+    "show_toast": true,
+    "announce_to_chat": true,
+    "hidden": false
+  },
+  "criteria": {
+    "market": {
+      "trigger": "minecraft:inventory_changed",
+      "conditions": {
+        "items": [
+          {
+            "item": "solcarrot:food_book",
+			"count": 1
+          }
+        ]
+      }
+    }
+  }
+}

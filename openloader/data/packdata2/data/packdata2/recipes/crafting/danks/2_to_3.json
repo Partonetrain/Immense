@@ -1,0 +1,22 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "ibi",
+    "bsb",
+    "ibi"
+  ],
+  "key": {
+    "i": {
+      "item": "minecraft:honey_block"
+    },
+	"b": {
+      "item": "minecraft:gold_block"
+    },
+    "s": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "item": "dankstorage:2_to_3"
+  }
+}
