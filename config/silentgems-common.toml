@@ -99,7 +99,7 @@
 	#Note that disabling events will likely increase the frequency of other events.
 	[chaos.events]
 		#Spawn a group of corrupted slimes
-		"silentgems:corrupted_slimes" = false
+		"silentgems:corrupted_slimes" = true
 		#Spawn a regular lightning bolt (can cause fire)
 		"silentgems:lightning" = true
 		#Changes the weather to a thunderstorm

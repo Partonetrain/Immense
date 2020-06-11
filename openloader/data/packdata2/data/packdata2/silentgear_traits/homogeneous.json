@@ -1,0 +1,10 @@
+{
+    "type": "silentgear:simple_trait",
+    "max_level": 1,
+    "name": {
+        "text": "Homogeneous"
+    },
+    "description": {
+        "text": "Significantly reduces synergy with different Main Parts."
+    }
+}

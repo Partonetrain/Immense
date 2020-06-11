@@ -1,7 +1,7 @@
 {
   "modId": "minecraft",
   "group": {
-    "name": "Silent's Mod Seeds",
+    "name": "Misc. Seeds",
     "enabledByDefault": true,
     "defaultPayment": {
       "item": "jsonifycraft:gemoney"
@@ -16,7 +16,7 @@
       "output": "silentgems:fluffy_puff_seeds"
     },
 	{
-      "output": "silentgear:netherwood_sapling"
+      "output": "swampexpansion:rice"
     }
   ]
 }

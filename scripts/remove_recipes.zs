@@ -1,5 +1,3 @@
-import mods.jei.JEI;
-
 //simplefarming
 craftingTable.removeByName("simplefarming:black_dye");
 craftingTable.removeByName("simplefarming:blue_dye");
@@ -81,10 +79,18 @@ craftingTable.removeByName("farmingforblockheads:yellow_fertilizer");
 //create mixer
 <recipetype:create:mixing>.removeByName("create:mixing/chromatic_compound");
 
+//create copper
+craftingTable.removeByName("create:crafting_shaped/materials/copper_ingot");
+craftingTable.removeByName("create:crafting_shapeless/copper_ingot");
+<recipetype:minecraft:blasting>.removeByName("create:blasting/copper_ore");
+<recipetype:minecraft:smelting>.removeByName("create:smelting/copper_ore");
+<recipetype:minecraft:blasting>.removeByName("create:blasting/crushed_copper");
+<recipetype:minecraft:smelting>.removeByName("create:smelting/crushed_copper");
 
 //misc
 craftingTable.removeByName("angelring:itemdiamondring");
 //craftingTable.removeByName("mobgrinder:mob_grinder");
+craftingTable.removeByName("mobcatcher:net");
 craftingTable.removeByName("wstweaks:lava_blade");
 craftingTable.removeByName("wstweaks:blaze_blade");
 craftingTable.removeByName("wstweaks:wither_skeleton_skull");
@@ -111,24 +117,5 @@ craftingTable.removeByName("prettypipes:crafting_terminal");
 craftingTable.removeByName("prettypipes:pipe");
 craftingTable.removeByName("psi:assembler");
 
-
 //tags
 <tag:forge:paper>.removeItems(<item:silentgear:blueprint_paper>);
-
-//For when Productive Bees is added
-//<recipetype:productivebees:centrifuge>.removeByRegex("productivebees:centrifuge/.*");
-
-
-//JEI
-mods.jei.JEI.hideItem(<item:funores:wither_skull_shard>);
-mods.jei.JEI.hideItem(<item:funores:blaze_shard>);
-mods.jei.JEI.hideItem(<item:funores:ghast_shard>);
-mods.jei.JEI.hideItem(<item:create:powdered_obsidian>);
-mods.jei.JEI.hideItem(<item:mekanism:block_copper>);
-mods.jei.JEI.hideItem(<item:inspirations:cactus_seeds>);
-mods.jei.JEI.hideItem(<item:inspirations:sugar_cane_seeds>);
-mods.jei.JEI.hideItem(<item:inspirations:waypoint_compass>);
-mods.jei.JEI.hideItem(<item:quark:rope>);
-mods.jei.JEI.hideItem(<item:farmingforblockheads:feeding_trough>);
-mods.jei.JEI.hideItem(<item:prettypipes:item_terminal>);
-mods.jei.JEI.hideItem(<item:prettypipes:crafting_terminal>);

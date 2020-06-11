@@ -1,0 +1,19 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "jaopca:create_crushed_ores.crimson_iron"
+        },{
+            "item": "minecraft:magma_cream"
+        },{
+            "item": "wstweaks:fragment"
+        },{
+            "tag": "forge:dusts/coal"
+        }
+		
+    ],
+    "result": {
+        "item": "jaopca:dusts.crimson_steel",
+		"count": 1
+    }
+}

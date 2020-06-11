@@ -1,0 +1,21 @@
+
+#Horse Modifiers
+[horse]
+	#Show update message on world enter.
+	showUpdateMessage = false
+
+#Carrots
+[carrots]
+	#How much modifiers can the horse hold for each modifiers (Normal is 10 each)
+	#Range: > 1
+	maxModifiers = 10
+	#Value that Healthy Carrot gives
+	#Range: 0.1 ~ 2.147483647E9
+	healthyCarrot = 2.0
+	#Value that Flash Carrot gives
+	#Range: 0.1 ~ 2.147483647E9
+	flashCarrot = 0.1
+	#Value that Jump Carrot gives
+	#Range: 0.1 ~ 2.147483647E9
+	jumpCarrot = 0.1
+

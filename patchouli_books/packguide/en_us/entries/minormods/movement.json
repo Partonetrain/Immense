@@ -32,6 +32,16 @@
 				"type": "crafting",
 				"recipe": "dwmh:ocarina",
 				"text": "With the Ocarina, you can bind it to a Horse to be summoned from anywhere. This won't bring any carts attached to them, though."
+			},
+			{
+				"type": "crafting",
+				"recipe": "apotheosis:farmers_leash",
+				"text": "The Ender-Farmer's Lead allows you to easily pick up animals and transport them. It only has 15 uses, though."
+			},
+			{
+				"type": "crafting",
+				"recipe": "packdata2:crafting/mobcapture",
+				"text": "Unlike the Ender-Farmer's Lead, this lets you pick up any mob and has infinite uses."
 			}
 			]
 }

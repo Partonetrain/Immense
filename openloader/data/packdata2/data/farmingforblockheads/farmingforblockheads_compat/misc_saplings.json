@@ -1,0 +1,38 @@
+{
+  "modId": "minecraft",
+  "group": {
+    "name": "Misc. Saplings",
+    "enabledByDefault": true,
+    "defaultPayment": {
+      "item": "jsonifycraft:gemoney",
+	  "count": 2
+    },
+    "defaultCategory": "farmingforblockheads:saplings"
+  },
+  "customEntries": [
+	{
+      "output": "atmospheric:grimwood_sapling"
+    },
+	{
+      "output": "atmospheric:aspen_sapling"
+    },
+	{
+      "output": "atmospheric:kousa_sapling"
+    },
+	{
+      "output": "atmospheric:yucca_sapling"
+    },
+	{
+      "output": "atmospheric:rosewood_sapling"
+    },
+	{
+      "output": "swampexpansion:willow_sapling"
+    },
+	{
+      "output": "upgrade_aquatic:river_sapling"
+    },
+	{
+      "output": "traverse:fir_sapling"
+    }
+  ]
+}

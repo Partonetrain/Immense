@@ -1,11 +1,11 @@
 {
   "modId": "simplefarming",
   "group": {
-    "name": "SimpleFarming Saplings",
+    "name": "Fruit Saplings",
     "enabledByDefault": true,
     "defaultPayment": {
       "item": "jsonifycraft:gemoney",
-	  "count": 2
+	  "count": 4
     },
     "defaultCategory": "farmingforblockheads:saplings"
   },

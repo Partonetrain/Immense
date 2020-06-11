@@ -1,0 +1,12 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "endercompass:ender_compass"
+        }
+    ],
+    "result": {
+        "item": "minecraft:ender_eye",
+		"count": 4
+    }
+}

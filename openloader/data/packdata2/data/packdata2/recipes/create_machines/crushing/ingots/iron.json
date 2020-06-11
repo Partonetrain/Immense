@@ -1,0 +1,16 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+    	{
+    		"tag": "forge:ingots/iron"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "mekanism:dust_iron",
+			"count": 1,
+			"chance": 1
+		}
+	],
+	"processingTime": 100
+}

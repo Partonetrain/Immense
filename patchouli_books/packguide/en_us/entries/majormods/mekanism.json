@@ -9,8 +9,8 @@
 		},
 		{
 			"type": "crafting",
-			"recipe": "packdata2:crafting/metallurgicinfuser",
-			"text": "The first machine you will create is the Metallurgic Infuser, which will allow you to create Enriched Alloys and Steel. $(italics)This recipe requires Osmium Dust, which can only be obtained early-game with a $(l:majormods/create#ms)Create Millstone."
+			"recipe": "packdata2:crafting/metallurgicinfuser2",
+			"text": "The first machine you will create is the Metallurgic Infuser, which will allow you to create Enriched Alloys and Steel. $(italics)This recipe requires Crushed Osmium, which can only be obtained early-game with a $(l:majormods/create#ms)Create Millstone."
 		},
 		{
 			"type": "crafting",

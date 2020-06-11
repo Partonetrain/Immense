@@ -23,6 +23,9 @@
       "output": "silentgems:glowrose_fertilizer"
     },
 	{
+      "output": "botania:fertilizer"
+    },
+	{
       "output": "minecraft:bone_meal"
     }
   ]

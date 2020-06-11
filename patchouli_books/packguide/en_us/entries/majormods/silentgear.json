@@ -5,7 +5,7 @@
 	"sortnum": -1,
 	"pages": [{
 			"type": "text",
-			"text": "Silent Gear adds its own method of creating tools and armor. These tools will have different traits based on what you craft them with. Use the Blueprint Package you spawned with to get started. $(br2)You can repair your tools with any material of the same tier in an Anvil or Crafting Table. $(italics)Protip: use $(c:/sgear_parts show_guie)/sgear_parts show_gui$() to show all valid parts"
+			"text": "Silent Gear adds its own method of creating tools and armor. These tools will have different traits based on what you craft them with. Use the Blueprint Package you spawned with to get started. $(br2)You can repair your tools with any material of the same tier in an Anvil or Crafting Table. $(italics)Protip: use $(c:/sgear_parts show_gui)/sgear_parts show_gui$() to show all valid parts"
 			},
 		{
 			"type": "crafting",
@@ -20,7 +20,7 @@
 		},
 		{
 			"type": "text",
-			"text": "Every valid Gear material will have a tooltip telling you its tier and provided traits. When hovered over a material, press CTRL for stats and ALT for trait descriptions.$(br2)Once the tool is crafted, you can add Tip Upgrades (only one at a time) as well as Misc Upgrades.$(br2)$(italics)Ignore any trait or stat that mentions Magic Damage/Armor - this was a feature from earlier versions that has been removed"
+			"text": "Every valid Gear Main Part will have a tooltip telling you its tier and provided traits. When hovered over a material, press CTRL for stats and ALT for trait descriptions.$(br2)Once the tool is crafted, you can add Tip Upgrades (only one at a time) as well as Misc Upgrades.$(br2)$(italics)Ignore any trait or stat that mentions Magic Damage/Armor - this was a feature from earlier versions that has been removed"
 		},
 		{
 			"type": "spotlight",

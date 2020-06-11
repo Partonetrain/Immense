@@ -5,7 +5,7 @@
     "enabledByDefault": true,
     "defaultPayment": {
       "item": "jsonifycraft:gemoney",
-	  "count": 8
+	  "count": 16
     },
     "defaultCategory": "farmingforblockheads:other"
   },

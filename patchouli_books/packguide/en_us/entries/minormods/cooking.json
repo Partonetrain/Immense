@@ -20,7 +20,7 @@
 		},
 		{
 			"type": "text",
-			"text": "There are plenty of blocks to store your ingredients, like Cabinets and Fridges.$(br2)The Toaster and Tool Rack don't actually do anything, but the can still be crafted to make your kitchen look nice. "
+			"text": "Sinks provide water to recipes (pipes can even draw infinite amounts of water from it!). Ovens cook food and can be upgraded to accept energy.$(br2)There are plenty of blocks to store your ingredients, like Cabinets and Fridges. $(br2)The Toaster and Tool Rack don't actually do anything, but the can still be crafted to make your kitchen look nice. "
 		}
     ]
 }

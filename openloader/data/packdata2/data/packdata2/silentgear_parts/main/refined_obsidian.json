@@ -1,6 +1,6 @@
 {
     "availability": {
-        "tier": 4
+        "tier": 5
     },
     "crafting_items": {
         "normal": {
@@ -20,7 +20,7 @@
             "value": 6144
         },{
             "name": "rarity",
-            "value": 45
+            "value": 100
         },
         {
             "name": "armor_durability",
@@ -85,6 +85,10 @@
 		{
 			"level": 4,
             "name": "silentgear:jagged"
+		},
+		{
+			"level": 1,
+			"name": "packdata2:homogeneous"
 		}
     ],
     "type": "silentgear:main"

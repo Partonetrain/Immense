@@ -39,16 +39,33 @@
 					"predicate": {
 						"player": {
 							"advancements": {
-								
 									"packdata2:dungeondim": true
-								
 							}
 						}
 					}
 				}
 			
             ]
-		}
-        
-  ]
+		},{
+		"name": "lotus_loot",
+		"rolls": 1,
+		"entries": [{
+			"type": "minecraft:item",
+			"weight": 1,
+			"name": "treasurebags:treasure_bag",
+			"functions": [{
+				"function": "treasurebags:set_bag_type",
+				"type": "packdata2:lotus"
+			}]
+		}],
+		"conditions": [{
+				"condition": "killed_by_player"
+			},
+			{
+				"condition": "random_chance_with_looting",
+				"chance": 0.01,
+				"looting_multiplier": 0.05
+			}
+		]
+	}]
 }

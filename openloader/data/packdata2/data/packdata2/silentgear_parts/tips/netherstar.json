@@ -13,8 +13,7 @@
         {"name": "rarity",          "value":   35}
     ],
     "traits": [
-        {"name": "silentgear:stellar", "level": 2},
-        {"name": "silentgear:ancient", "level": 2}
+        {"name": "silentgear:stellar", "level": 4}
     ],
     "crafting_items": {
         "normal": {

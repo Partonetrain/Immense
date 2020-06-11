@@ -1,0 +1,16 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+    	{
+    		"tag": "forge:ingots/crimson_iron"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "silentgear:crimson_iron_dust",
+			"count": 1,
+			"chance": 1
+		}
+	],
+	"processingTime": 100
+}

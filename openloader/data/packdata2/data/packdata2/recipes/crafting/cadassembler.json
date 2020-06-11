@@ -10,7 +10,7 @@
       "tag": "forge:ingots/iron"
     },
 	"m": {
-      "tag": "forge:storage_blocks/mana"
+      "item": "botania:livingrock"
     },
     "c": {
       "item": "minecraft:piston"

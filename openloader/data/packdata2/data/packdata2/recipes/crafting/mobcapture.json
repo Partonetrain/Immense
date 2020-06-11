@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    " i ",
+    "iei",
+    " i "
+  ],
+  "key": {
+    "e": {
+      "item": "apotheosis:farmers_leash"
+    },
+    "i": {
+      "tag": "silentgems:gems"
+    }
+  },
+  "result": {
+    "item": "mobcatcher:net"
+  }
+}

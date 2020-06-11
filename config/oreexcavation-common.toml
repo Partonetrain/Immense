@@ -37,7 +37,7 @@
 	"Block Blacklist" = []
 	#The maximum number of blocks that can be excavated at once
 	#Range: > 1
-	Limit = 128
+	Limit = 64
 	#How many excavations should be kept in undo history (may lead to exploits or instability)
 	#Range: > 0
 	"Max Undos" = 3

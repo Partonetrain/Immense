@@ -16,7 +16,7 @@
 		{
 			"type": "crafting",
 			"recipe": "create:crafting_shaped/materials/andesite_alloy",
-			"text": "Andesite Alloy; you will need a lot of this. Once you get a Mixer you will be able to craft this more efficiently."
+			"text": "Andesite Alloy; you will need a lot of this. Once you get a Mixer you will be able to craft these more efficiently."
 		},		
 		{
 			"type": "crafting",
@@ -42,7 +42,7 @@
 			"type": "crafting",
 			"recipe": "create:crafting_shaped/contraptions/millstone",
 			"anchor": "ms",
-			"text": "The first contraption you'll probably craft - the Millstone. After providing it with rotational power, manually drop ores into the top, then right-click to extract the dust."
+			"text": "The first contraption you'll probably craft - the Millstone. After providing it with rotational power via adjacent cogwheel, manually drop ores into the top, then right-click to extract the dust."
 		},
 		{
 			"type": "crafting",

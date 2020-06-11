@@ -1,0 +1,8 @@
+{
+    "displayName": "Bag of Black Lotus",
+    "lootTable": "packdata2:bags/lotus",
+    "bagColor": "black",
+    "bagOverlayColor": "purple",
+    "bagStringColor": "purple",
+    "visible": true
+}

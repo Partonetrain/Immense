@@ -1,31 +1,19 @@
 {
 	"type": "minecraft:entity",
 	"pools": [{
-		"name": "gem_loot",
+		"name": "bat_loot",
 		"rolls": 1,
 		"entries": [{
 			"type": "minecraft:item",
-			"weight": 6,
-			"name": "treasurebags:treasure_bag",
-			"functions": [{
-				"function": "treasurebags:set_bag_type",
-				"type": "silentgems:classic_gems"
-			}]
+			"weight": 9,
+			"name": "minecraft:bone_meal"
 		}, {
 			"type": "minecraft:item",
-			"weight": 2,
+			"weight": 1,
 			"name": "treasurebags:treasure_bag",
 			"functions": [{
 				"function": "treasurebags:set_bag_type",
-				"type": "silentgems:dark_gems"
-			}]
-		}, {
-			"type": "minecraft:item",
-			"weight": 2,
-			"name": "treasurebags:treasure_bag",
-			"functions": [{
-				"function": "treasurebags:set_bag_type",
-				"type": "silentgems:light_gems"
+				"type": "packdata2:recursion"
 			}]
 		}],
 		"conditions": [{

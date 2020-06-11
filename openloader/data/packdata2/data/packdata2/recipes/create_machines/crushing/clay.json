@@ -1,0 +1,16 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:clay_ball"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "refinedstorage:silicon",
+			"count": 1,
+			"chance": 1
+		}
+	],
+	"processingTime": 100
+}
