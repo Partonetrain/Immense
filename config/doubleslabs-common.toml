@@ -5,7 +5,7 @@
 	#Example: minecraft:purpur_slab
 	slab_blacklist = []
 	#Whether to disable the placement of vertical slabs from regular horizontal slabs when holding shift
-	disable_vertical_slab_placement = false
+	disable_vertical_slab_placement = true
 	#Whether to use the custom double slab when combining slabs of the same type
 	replace_same_slab = true
 
