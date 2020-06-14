@@ -12,6 +12,11 @@ craftingTable.removeByName("silentgear:upgrade_base_advanced");
 craftingTable.removeByName("silentgear:blueprints/blueprint_paxel");
 craftingTable.removeByName("silentgear:blueprints/template_paxel");
 
+//temp remove WIP material system.
+craftingTable.removeByName("silentgear:material_grader");
+craftingTable.removeByName("silentgear:blueprints/blueprint_rod");
+craftingTable.removeByName("silentgear:blueprints/template_rod");
+
 craftingTable.removeByName("silentgems:transmutation_altar");
 craftingTable.removeByName("silentgems:gem_bag");
 

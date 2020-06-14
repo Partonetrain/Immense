@@ -1,0 +1,16 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+    	{
+    		"item": "upgrade_aquatic:prismarine_coral_block"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "minecraft:prismarine_shard",
+			"count": 1,
+			"chance": 0.5
+		}
+	],
+	"processingTime": 250
+}

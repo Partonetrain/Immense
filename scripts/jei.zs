@@ -13,8 +13,10 @@ mods.jei.JEI.hideItem(<item:quark:rope>);
 mods.jei.JEI.hideItem(<item:farmingforblockheads:feeding_trough>);
 mods.jei.JEI.hideItem(<item:prettypipes:item_terminal>);
 mods.jei.JEI.hideItem(<item:prettypipes:crafting_terminal>);
+mods.jei.JEI.hideItem(<item:silentgear:material_grader>);
 
 
 mods.jei.JEI.addInfo(<item:botania:life_essence>, ["Drops from Gaia Gaurdian Boss."]);
 mods.jei.JEI.addInfo(<item:silentgear:blueprint_paxel>, ["Rare drop from Monster Box spawns."]);
 mods.jei.JEI.addInfo(<item:jsonifycraft:gemoney>, ["Functions as currency at the Market."]);
+mods.jei.JEI.addInfo(<item:quark:bottled_cloud>, ["Right-click a cloud in the sky with an empty bottle."]);

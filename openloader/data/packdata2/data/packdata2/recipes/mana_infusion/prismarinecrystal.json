@@ -1,0 +1,13 @@
+{
+  "type": "botania:mana_infusion",
+  "input": {
+    "item": "minecraft:prismarine_crystals"
+  },
+  "output": {
+    "item": "minecraft:prismarine_crystals"
+  },
+  "mana": 20000,
+  "catalyst": {
+    "name": "botania:conjuration_catalyst"
+  }
+}

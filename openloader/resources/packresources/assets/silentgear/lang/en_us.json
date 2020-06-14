@@ -1,6 +1,9 @@
 {
 	"item.silentgear.pebble": "Slingshot Pebble",
 	"item.silentgear.iron_rod": "Iron Tool Rod",
+	"misc.silentgear.tooltip.material": "",
+	"part.silentgear.gradeOnPart": "",
+	"stat.silentgear.grade.NONE": "",
 	
 	
 	"jei.silentgear.crafting_station.desc": "Disabled due to dupe bug. (SilentGear Issue #50)"
