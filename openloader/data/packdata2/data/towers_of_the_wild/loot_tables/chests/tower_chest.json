@@ -1,0 +1,156 @@
+{
+	"type": "minecraft:chest",
+	"pools": [{
+			"rolls": {
+				"min": 2.0,
+				"max": 8.0,
+				"type": "minecraft:uniform"
+			},
+			"entries": [{
+					"type": "minecraft:item",
+					"weight": 15,
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1.0,
+							"max": 3.0,
+							"type": "minecraft:uniform"
+						}
+					}],
+					"name": "minecraft:iron_ingot"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 7,
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1.0,
+							"max": 2.0,
+							"type": "minecraft:uniform"
+						}
+					}],
+					"name": "minecraft:emerald"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 10,
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1.0,
+							"max": 2.0,
+							"type": "minecraft:uniform"
+						}
+					}],
+					"name": "minecraft:gold_ingot"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 15,
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1.0,
+							"max": 8.0,
+							"type": "minecraft:uniform"
+						}
+					}],
+					"name": "minecraft:feather"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 5,
+					"functions": [{
+						"function": "minecraft:set_count",
+						"count": {
+							"min": 1.0,
+							"max": 2.0,
+							"type": "minecraft:uniform"
+						}
+					}],
+					"name": "minecraft:ender_pearl"
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 4,
+					"name": "minecraft:compass"
+				},
+				{
+					"type": "item",
+					"name": "minecraft:player_head",
+					"weight": 1,
+					"functions": [{
+						"function": "set_nbt",
+						"tag": "{SkullOwner:{Id:\"fd351f7c-74a1-4b0f-b0c1-7af10d4004a6\",Properties:{textures:[{Value:\"eyJ0ZXh0dXJlcyI6eyJTS0lOIjp7InVybCI6Imh0dHA6Ly90ZXh0dXJlcy5taW5lY3JhZnQubmV0L3RleHR1cmUvYjBjYzkzMmQ4YzQ5MTZlN2ZhNTYzNDRiZTU4MDI5ZWFjMGYwM2UzNWU4YTBkMGQ3YThjNWExYzM2YTQ5NmNmZiJ9fX0=\"}]}}}"
+					}, {
+						"function": "set_name",
+						"name": "Smash Ball"
+					}]
+				},
+				{
+					"type": "minecraft:item",
+					"weight": 3,
+					"functions": [{
+						"function": "minecraft:enchant_with_levels",
+						"levels": 30,
+						"treasure": true
+					}],
+					"name": "minecraft:book"
+				}
+			]
+		},
+		{
+			"rolls": 1,
+			"entries": [{
+				"type": "minecraft:item",
+				"name": "minecraft:map"
+			}]
+		},
+		{
+			"rolls": {
+				"min": 0.0,
+				"max": 1.0,
+				"type": "minecraft:uniform"
+			},
+			"entries": [{
+				"type": "minecraft:item",
+				"name": "quark:blue_rune"
+			}, {
+				"type": "minecraft:item",
+				"name": "quark:red_rune"
+			}, {
+				"type": "minecraft:item",
+				"name": "quark:yellow_rune"
+			}, {
+				"type": "minecraft:item",
+				"name": "quark:white_rune"
+			}]
+		},
+		{
+			"rolls": 3,
+			"entries": [{
+				"type": "minecraft:item",
+				"name": "treasurebags:treasure_bag",
+				"functions": [{
+					"function": "treasurebags:set_bag_type",
+					"type": "silentgems:classic_gems"
+				}]
+			}, {
+				"type": "minecraft:item",
+				"name": "treasurebags:treasure_bag",
+				"functions": [{
+					"function": "treasurebags:set_bag_type",
+					"type": "silentgems:dark_gems"
+				}]
+			}, {
+				"type": "minecraft:item",
+				"name": "treasurebags:treasure_bag",
+				"functions": [{
+					"function": "treasurebags:set_bag_type",
+					"type": "silentgems:light_gems"
+				}]
+			}]
+		}
+	]
+}

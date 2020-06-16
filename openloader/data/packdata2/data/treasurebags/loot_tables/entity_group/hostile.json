@@ -12,7 +12,7 @@
                     "entryName": "classicgems",
                     "type": "loot_table",
                     "name": "silentgems:classic_gems",
-					"weight": 6
+					"weight": 5
                 },
 				{
                     "entryName": "darkgems",
@@ -24,7 +24,7 @@
                     "entryName": "lightgems",
                     "type": "loot_table",
                     "name": "silentgems:light_gems",
-					"weight": 1
+					"weight": 2
                 }
             ],
             "conditions": [

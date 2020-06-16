@@ -1,3 +1,5 @@
+import crafttweaker.api.tag.MCTag;
+
 //simplefarming
 craftingTable.removeByName("simplefarming:black_dye");
 craftingTable.removeByName("simplefarming:blue_dye");
@@ -16,6 +18,8 @@ craftingTable.removeByName("silentgear:blueprints/template_paxel");
 craftingTable.removeByName("silentgear:material_grader");
 craftingTable.removeByName("silentgear:blueprints/blueprint_rod");
 craftingTable.removeByName("silentgear:blueprints/template_rod");
+craftingTable.removeByName("silentgear:blueprints/blueprint_grip");
+craftingTable.removeByName("silentgear:blueprints/template_grip");
 
 craftingTable.removeByName("silentgems:transmutation_altar");
 craftingTable.removeByName("silentgems:gem_bag");
@@ -124,3 +128,13 @@ craftingTable.removeByName("psi:assembler");
 
 //tags
 <tag:forge:paper>.removeItems(<item:silentgear:blueprint_paper>);
+//these are functionally generators and machines, don't want things interacting with them as flowers
+var bBlocks = <tag:botania:special_flowers>.blocks;
+for block in bBlocks {
+    <tag:minecraft:flowers>.removeBlocks(block);
+}
+
+var bItems = <tag:botania:special_flowers>.items;
+for item in bItems {
+    <tag:minecraft:flowers>.removeItems(item);
+}
