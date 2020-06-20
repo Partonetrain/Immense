@@ -2,11 +2,11 @@
   "type": "mekanism:enriching",
   "input": {
     "ingredient": {
-      "item": "funores:enderman_ore"
+      "item": "silentgems:chaos_dust"
     }
   },
   "output": {
-    "item": "minecraft:ender_pearl",
-    "count": 2
+    "item": "silentgems:chaos_crystal",
+    "count": 1
   }
 }

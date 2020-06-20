@@ -20,6 +20,8 @@ craftingTable.removeByName("silentgear:blueprints/blueprint_rod");
 craftingTable.removeByName("silentgear:blueprints/template_rod");
 craftingTable.removeByName("silentgear:blueprints/blueprint_grip");
 craftingTable.removeByName("silentgear:blueprints/template_grip");
+craftingTable.removeByName("silentgear:blueprints/blueprint_tip");
+craftingTable.removeByName("silentgear:blueprints/template_tip");
 
 craftingTable.removeByName("silentgems:transmutation_altar");
 craftingTable.removeByName("silentgems:gem_bag");

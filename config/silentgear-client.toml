@@ -1,4 +1,12 @@
 
+[item]
+
+	[item.gear]
+
+		[item.gear.materials]
+			#Disable item tooltips related to the new material system. Will be removed when fully implemented.
+			disableNewTooltips = true
+
 [gear]
 	#Allow gear items to have the 'enchanted glow' effect. Set to 'false' to disable the effect.
 	#The way vanilla handles the effect is bugged, and it is recommended to disable this until custom models are possible again.

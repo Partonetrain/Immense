@@ -1,0 +1,16 @@
+{
+    "type": "crafting_shapeless",
+    "ingredients": [
+        {
+            "item": "silentgems:corrupted_slimeball"
+        },
+		{
+            "item": "minecraft:stone"
+        }
+		
+    ],
+    "result": {
+        "item": "silentgems:corrupted_dirt_pile",
+		"count": 1
+    }
+}

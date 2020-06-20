@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "item": "silentgems:chaos_ore"
+    }
+  },
+  "output": {
+    "item": "silentgems:chaos_crystal",
+    "count": 2
+  }
+}

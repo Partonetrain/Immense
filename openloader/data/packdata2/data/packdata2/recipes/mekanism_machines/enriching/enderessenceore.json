@@ -1,0 +1,12 @@
+{
+  "type": "mekanism:enriching",
+  "input": {
+    "ingredient": {
+      "item": "silentgems:ender_ore"
+    }
+  },
+  "output": {
+    "item": "silentgems:ender_crystal",
+    "count": 2
+  }
+}

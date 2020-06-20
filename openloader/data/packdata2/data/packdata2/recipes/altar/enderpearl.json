@@ -1,0 +1,17 @@
+{
+  "type": "silentgems:altar_transmutation",
+  "chaosGenerated": 60,
+  "processTime": 200,
+  "ingredient": [
+    {
+      "item": "minecraft:ender_pearl"
+    }
+  ],
+  "catalyst": {
+    "tag": "forge:ingots/gold"
+  },
+  "result": {
+    "item": "minecraft:ender_pearl",
+	"count": 2
+  }
+}

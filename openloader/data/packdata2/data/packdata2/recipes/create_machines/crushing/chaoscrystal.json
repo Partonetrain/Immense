@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+    "ingredients": [
+    	{
+    		"item": "silentgems:chaos_crystal"
+    	}
+    ], 
+	"results": [
+		{
+			"item": "silentgems:chaos_dust",
+			"count": 1
+		}
+	],
+	"processingTime": 100
+}
