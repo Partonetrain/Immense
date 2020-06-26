@@ -1,6 +1,6 @@
 
 #Common Config
 [common]
-	#If Wisteria Trees generate outside of the Wisteria Forest; Default: True
+	#If Wisteria Trees generate outside of the Wisteria Forest; Default: False
 	generateExternalWisterias = true
 

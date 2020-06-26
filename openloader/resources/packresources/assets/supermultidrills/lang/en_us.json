@@ -1,2 +1,6 @@
 {
+	"trait.supermultidrills.weak_flux": "Weak Flux",
+	"trait.supermultidrills.weak_flux.desc": "Non-functional",
+	"trait.supermultidrills.strong_flux": "Strong Flux",
+	"trait.supermultidrills.strong_flux.desc": "Non-functional"
 }

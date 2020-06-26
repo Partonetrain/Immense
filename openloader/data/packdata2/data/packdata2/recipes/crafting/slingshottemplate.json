@@ -1,0 +1,19 @@
+{
+  "type": "crafting_shaped",
+  "pattern": [
+    "p p",
+    " p ",
+    " s "
+  ],
+  "key": {
+    "p": {
+      "tag": "silentgear:template_boards"
+    },
+    "s": {
+      "tag": "forge:rods/wooden"
+    }
+  },
+  "result": {
+    "item": "silentgear:template_slingshot"
+  }
+}
